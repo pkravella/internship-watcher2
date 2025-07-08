@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-08T01:29:23.120959",
+  "last_updated": "2025-07-08T02:18:07.031897",
   "internship_ids": [
     "Stevens_Capital_Management_LP_Developer_Intern_Radnor__PA_Software_Engineering",
     "Citadel_Software_Engineer_Intern_Miami__FLChicago__ILNew_York__NY_Software_Engineering",
@@ -28,7 +28,7 @@
       "role": "Developer Intern",
       "location": "Radnor, PA",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.119835"
+      "timestamp": "2025-07-08T02:18:07.030716"
     },
     {
       "id": "Citadel_Software_Engineer_Intern_Miami__FLChicago__ILNew_York__NY_Software_Engineering",
@@ -36,7 +36,7 @@
       "role": "Software Engineer Intern",
       "location": "Miami, FLChicago, ILNew York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.119871"
+      "timestamp": "2025-07-08T02:18:07.030751"
     },
     {
       "id": "Optiver_Software_Engineer_Intern_Chicago__IL_Software_Engineering",
@@ -44,7 +44,7 @@
       "role": "Software Engineer Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.119899"
+      "timestamp": "2025-07-08T02:18:07.030780"
     },
     {
       "id": "Optiver_Software_Engineer_Intern_Austin__TX_Software_Engineering",
@@ -52,7 +52,7 @@
       "role": "Software Engineer Intern",
       "location": "Austin, TX",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.119923"
+      "timestamp": "2025-07-08T02:18:07.030804"
     },
     {
       "id": "IMC_Trading_Software_Engineer_Intern_Chicago__IL_Software_Engineering",
@@ -60,7 +60,7 @@
       "role": "Software Engineer Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.119946"
+      "timestamp": "2025-07-08T02:18:07.030828"
     },
     {
       "id": "Palantir_Forward_Deployed_Software_Engineer_\u2013_Internship_-_Commercial_NYC_Software_Engineering",
@@ -68,7 +68,7 @@
       "role": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.119972"
+      "timestamp": "2025-07-08T02:18:07.030854"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Production_Infrastructure_Seattle__WA_Software_Engineering",
@@ -76,7 +76,7 @@
       "role": "Software Engineer \u2013 Internship - Production Infrastructure",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.119996"
+      "timestamp": "2025-07-08T02:18:07.030883"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Infrastructure_NYC_Software_Engineering",
@@ -84,7 +84,7 @@
       "role": "Software Engineer \u2013 Internship - Infrastructure",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.120014"
+      "timestamp": "2025-07-08T02:18:07.030916"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Production_Infrastructure_NYC_Software_Engineering",
@@ -92,7 +92,7 @@
       "role": "Software Engineer \u2013 Internship - Production Infrastructure",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.120031"
+      "timestamp": "2025-07-08T02:18:07.030951"
     },
     {
       "id": "Konrad_Group_Software_Developer_Intern_Toronto__ON__Canada_Software_Engineering",
@@ -100,7 +100,7 @@
       "role": "Software Developer Intern",
       "location": "Toronto, ON, Canada",
       "category": "Software Engineering",
-      "timestamp": "2025-07-08T01:29:23.120052"
+      "timestamp": "2025-07-08T02:18:07.030978"
     },
     {
       "id": "Optiver_Quantitative_Research_Intern_Austin__TX_Quantitative_Finance",
@@ -108,7 +108,7 @@
       "role": "Quantitative Research Intern",
       "location": "Austin, TX",
       "category": "Quantitative Finance",
-      "timestamp": "2025-07-08T01:29:23.120287"
+      "timestamp": "2025-07-08T02:18:07.031220"
     },
     {
       "id": "Optiver_Quantitative_Research_Intern_Chicago__IL_Quantitative_Finance",
@@ -116,7 +116,7 @@
       "role": "Quantitative Research Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-07-08T01:29:23.120309"
+      "timestamp": "2025-07-08T02:18:07.031242"
     },
     {
       "id": "Optiver_Quantitative_Trader_Intern_-_Summer_2026_Chicago__IL_Quantitative_Finance",
@@ -124,7 +124,7 @@
       "role": "Quantitative Trader Intern - Summer 2026",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-07-08T01:29:23.120328"
+      "timestamp": "2025-07-08T02:18:07.031261"
     },
     {
       "id": "IMC_Trading_Quantitative_Research_Intern_-_BS_MS_Chicago__IL_Quantitative_Finance",
@@ -132,7 +132,7 @@
       "role": "Quantitative Research Intern - BS/MS",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-07-08T01:29:23.120350"
+      "timestamp": "2025-07-08T02:18:07.031282"
     },
     {
       "id": "IMC_Trading_Quantitative_Trader_Intern_Chicago__IL_Quantitative_Finance",
@@ -140,7 +140,7 @@
       "role": "Quantitative Trader Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-07-08T01:29:23.120368"
+      "timestamp": "2025-07-08T02:18:07.031299"
     },
     {
       "id": "AQR_Capital_Management_Portfolio_Implementation_\u2013_Trading_and_Portfolio_Finance_Summer_Analyst_Greenwich__CT_Quantitative_Finance",
@@ -148,7 +148,7 @@
       "role": "Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
       "location": "Greenwich, CT",
       "category": "Quantitative Finance",
-      "timestamp": "2025-07-08T01:29:23.120391"
+      "timestamp": "2025-07-08T02:18:07.031323"
     },
     {
       "id": "Western_Digital_Software_Engineering_Co-Op_Rochester__MN_Hardware_Engineering",
@@ -156,7 +156,7 @@
       "role": "Software Engineering Co-Op",
       "location": "Rochester, MN",
       "category": "Hardware Engineering",
-      "timestamp": "2025-07-08T01:29:23.120543"
+      "timestamp": "2025-07-08T02:18:07.031473"
     },
     {
       "id": "Tower_Research_Capital_ML_Intern_NYC_Data_Science__AI_&_ML",
@@ -164,7 +164,7 @@
       "role": "ML Intern",
       "location": "NYC",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-07-08T01:29:23.120694"
+      "timestamp": "2025-07-08T02:18:07.031624"
     },
     {
       "id": "Bank_of_America_Global_Operations_Development_Summer_Analyst_Program_\ud83d\udec2_4_locationsCharlotte__North_CarolinaDallas__TexasJacksonville__FloridaPhoenix__Arizona_Data_Science__AI_&_ML",
@@ -172,7 +172,7 @@
       "role": "Global Operations Development Summer Analyst Program \ud83d\udec2",
       "location": "4 locationsCharlotte, North CarolinaDallas, TexasJacksonville, FloridaPhoenix, Arizona",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-07-08T01:29:23.120722"
+      "timestamp": "2025-07-08T02:18:07.031652"
     }
   ]
 }
