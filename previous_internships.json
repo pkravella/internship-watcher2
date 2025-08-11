@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-11T20:01:38.478313",
+  "last_updated": "2025-08-11T20:34:53.511254",
   "internship_ids": [
     "Cofluent_Software_Engineering_Intern_Austin__TexasRemote_Software_Engineering",
     "Belvedere_Trading_Software_Engineer_Intern_Chicago__IL_Software_Engineering",
@@ -341,7 +341,7 @@
       "role": "Software Engineering Intern",
       "location": "Austin, TexasRemote",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468426"
+      "timestamp": "2025-08-11T20:34:53.501436"
     },
     {
       "id": "Belvedere_Trading_Software_Engineer_Intern_Chicago__IL_Software_Engineering",
@@ -349,7 +349,7 @@
       "role": "Software Engineer Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468471"
+      "timestamp": "2025-08-11T20:34:53.501492"
     },
     {
       "id": "Bank_of_New_York_Mellon_2026_BNY_Summer_Internship_Program_-_Engineering_-_Developer_-_Early_Talent_and_University_Programs_Pittsburgh__PALake_Mary__FLNYC_Software_Engineering",
@@ -357,7 +357,7 @@
       "role": "2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs",
       "location": "Pittsburgh, PALake Mary, FLNYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468501"
+      "timestamp": "2025-08-11T20:34:53.501522"
     },
     {
       "id": "Tesla_Systems_Engineer__Collision_Avoidance__Autonomy_&_Robotics_\ud83d\udec2_Palo_Alto__CA_Software_Engineering",
@@ -365,7 +365,7 @@
       "role": "Systems Engineer, Collision Avoidance, Autonomy & Robotics \ud83d\udec2",
       "location": "Palo Alto, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468532"
+      "timestamp": "2025-08-11T20:34:53.501552"
     },
     {
       "id": "Jump_Trading_Campus_Tech_Ops_Engineer_Chicago__IL_Software_Engineering",
@@ -373,7 +373,7 @@
       "role": "Campus Tech Ops Engineer",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468553"
+      "timestamp": "2025-08-11T20:34:53.501574"
     },
     {
       "id": "Confluent_Software_Engineering_Intern_Remote__London_Software_Engineering",
@@ -381,7 +381,7 @@
       "role": "Software Engineering Intern",
       "location": "Remote, London",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468576"
+      "timestamp": "2025-08-11T20:34:53.501594"
     },
     {
       "id": "Confluent_Confluent_Software_Engineering_Intern_Toronto__Canada_Software_Engineering",
@@ -389,7 +389,7 @@
       "role": "Confluent Software Engineering Intern",
       "location": "Toronto, Canada",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468596"
+      "timestamp": "2025-08-11T20:34:53.501613"
     },
     {
       "id": "Confluent_Cloud_Infrastructure_Engineer_Intern_Remote__United_Kingdom_Software_Engineering",
@@ -397,7 +397,7 @@
       "role": "Cloud Infrastructure Engineer Intern",
       "location": "Remote, United Kingdom",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468614"
+      "timestamp": "2025-08-11T20:34:53.501632"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Tiktok-Pgc-Ogc_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -405,7 +405,7 @@
       "role": "Frontend Engineer Intern - Tiktok-Pgc-Ogc - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468635"
+      "timestamp": "2025-08-11T20:34:53.501652"
     },
     {
       "id": "TikTok_Mobile_Software_Engineer_Intern_-_Tiktok-Engineering_Excellence-Dev_Infra_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -413,7 +413,7 @@
       "role": "Mobile Software Engineer Intern - Tiktok-Engineering Excellence-Dev Infra - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468654"
+      "timestamp": "2025-08-11T20:34:53.501670"
     },
     {
       "id": "TikTok_Tool_Software_Engineer_Intern_-_Tiktok-Intelligent_Creation-Effect_House_San_Jose__CA_Software_Engineering",
@@ -421,7 +421,7 @@
       "role": "Tool Software Engineer Intern - Tiktok-Intelligent Creation-Effect House",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468672"
+      "timestamp": "2025-08-11T20:34:53.501686"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Trust_and_Safety_-_Algorithm_Engineering_San_Jose__CA_Software_Engineering",
@@ -429,7 +429,7 @@
       "role": "Software Engineer Intern - Trust and Safety - Algorithm Engineering",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468689"
+      "timestamp": "2025-08-11T20:34:53.501738"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Tiktok-Product_Infrastructure-Customer_Service_Platform_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -437,7 +437,7 @@
       "role": "Frontend Engineer Intern - Tiktok-Product Infrastructure-Customer Service Platform - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468706"
+      "timestamp": "2025-08-11T20:34:53.501760"
     },
     {
       "id": "TikTok_Software_Engineer_Mobile_Engineer_Intern_-_Monetization_Technology_-_Ads_Core_Demonstration_San_Jose__CA_Software_Engineering",
@@ -445,7 +445,7 @@
       "role": "Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468723"
+      "timestamp": "2025-08-11T20:34:53.501777"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Intelligent_Creation_San_Jose__CA_Software_Engineering",
@@ -453,7 +453,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Intelligent Creation",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468739"
+      "timestamp": "2025-08-11T20:34:53.501793"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Privacy_and_Security-Age_Compliance_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -461,7 +461,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Privacy and Security-Age Compliance - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468774"
+      "timestamp": "2025-08-11T20:34:53.501809"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Recommendation_Platform_San_Jose__CA_Software_Engineering",
@@ -469,7 +469,7 @@
       "role": "Software Engineer Intern - Recommendation Platform",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468791"
+      "timestamp": "2025-08-11T20:34:53.501824"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Social-Friend_Interaction_San_Jose__CA_Software_Engineering",
@@ -477,7 +477,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Social-Friend Interaction",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468807"
+      "timestamp": "2025-08-11T20:34:53.501840"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Search_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -485,7 +485,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Search - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468823"
+      "timestamp": "2025-08-11T20:34:53.501856"
     },
     {
       "id": "TikTok_Software_Development_Engineer_in_Test_Intern_-_Tiktok-Pgc_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -493,7 +493,7 @@
       "role": "Software Development Engineer in Test Intern - Tiktok-Pgc - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468840"
+      "timestamp": "2025-08-11T20:34:53.501871"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Global_Live-Foundation_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -501,7 +501,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Global Live-Foundation - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468856"
+      "timestamp": "2025-08-11T20:34:53.501887"
     },
     {
       "id": "TikTok_Mobile_Software_Engineer_Intern_-_Tiktok-Social-User_and_Relation_-_2026_Summer_-_BS_MS_LA_Software_Engineering",
@@ -509,7 +509,7 @@
       "role": "Mobile Software Engineer Intern - Tiktok-Social-User and Relation - 2026 Summer - BS/MS",
       "location": "LA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468873"
+      "timestamp": "2025-08-11T20:34:53.501903"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Tiktok-Open_Platform_Seattle__WA_Software_Engineering",
@@ -517,7 +517,7 @@
       "role": "Frontend Engineer Intern - Tiktok-Open Platform",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468890"
+      "timestamp": "2025-08-11T20:34:53.501919"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Pgc-Ucp_San_Jose__CA_Software_Engineering",
@@ -525,7 +525,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Pgc-Ucp",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468906"
+      "timestamp": "2025-08-11T20:34:53.501934"
     },
     {
       "id": "TikTok_Mobile_Engineer_Intern_-_Tiktok-Growth-Customer_Lifecycle_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -533,7 +533,7 @@
       "role": "Mobile Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468921"
+      "timestamp": "2025-08-11T20:34:53.501950"
     },
     {
       "id": "TikTok_Mobile_Software_Engineer_Intern_-_Tiktok-Search_San_Jose__CA_Software_Engineering",
@@ -541,7 +541,7 @@
       "role": "Mobile Software Engineer Intern - Tiktok-Search",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468937"
+      "timestamp": "2025-08-11T20:34:53.501965"
     },
     {
       "id": "Ramp_Software_Engineer_Internship_-_IOS_SFNYC_Software_Engineering",
@@ -549,7 +549,7 @@
       "role": "Software Engineer Internship - IOS",
       "location": "SFNYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468959"
+      "timestamp": "2025-08-11T20:34:53.501987"
     },
     {
       "id": "Ramp_Software_Engineer_Internship_-_Android_SFNYC_Software_Engineering",
@@ -557,7 +557,7 @@
       "role": "Software Engineer Internship - Android",
       "location": "SFNYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468977"
+      "timestamp": "2025-08-11T20:34:53.502004"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Tiktok-Growth-Innovative_Growth_San_Jose__CA_Software_Engineering",
@@ -565,7 +565,7 @@
       "role": "Frontend Engineer Intern - Tiktok-Growth-Innovative Growth",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.468997"
+      "timestamp": "2025-08-11T20:34:53.502024"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Recommendation_Infrastructure_San_Jose__CA_Software_Engineering",
@@ -573,7 +573,7 @@
       "role": "Software Engineer Intern - Recommendation Infrastructure",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469015"
+      "timestamp": "2025-08-11T20:34:53.502040"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Data_Ecosystem_-_BS_MS_Seattle__WA_Software_Engineering",
@@ -581,7 +581,7 @@
       "role": "Software Engineer Intern - Data Ecosystem - BS/MS",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469032"
+      "timestamp": "2025-08-11T20:34:53.502056"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Product_Infrastructure-Account_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -589,7 +589,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Product Infrastructure-Account - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469050"
+      "timestamp": "2025-08-11T20:34:53.502072"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Trust_and_Safety-Engineer-AI_Safety_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -597,7 +597,7 @@
       "role": "Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469068"
+      "timestamp": "2025-08-11T20:34:53.502088"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Tiktok-Pgc_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -605,7 +605,7 @@
       "role": "Frontend Engineer Intern - Tiktok-Pgc - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469085"
+      "timestamp": "2025-08-11T20:34:53.502104"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Tiktok-Search-Client_San_Jose__CA_Software_Engineering",
@@ -613,7 +613,7 @@
       "role": "Frontend Engineer Intern - Tiktok-Search-Client",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469102"
+      "timestamp": "2025-08-11T20:34:53.502119"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Social-User_and_Relation_-_2026_Summer_-_BS_MS_LA_Software_Engineering",
@@ -621,7 +621,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Social-User and Relation - 2026 Summer - BS/MS",
       "location": "LA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469119"
+      "timestamp": "2025-08-11T20:34:53.502135"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Tiktok_Intelligent_Creation_Effects_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -629,7 +629,7 @@
       "role": "Software Engineer Intern - Tiktok Intelligent Creation Effects - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469137"
+      "timestamp": "2025-08-11T20:34:53.502151"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Data_Arch_-_Shorttext_Rec_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -637,7 +637,7 @@
       "role": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469157"
+      "timestamp": "2025-08-11T20:34:53.502169"
     },
     {
       "id": "TikTok_Software_Development_Engineer_in_Test_Intern_-_Tiktok-Growth_San_Jose__CA_Software_Engineering",
@@ -645,7 +645,7 @@
       "role": "Software Development Engineer in Test Intern - Tiktok-Growth",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469174"
+      "timestamp": "2025-08-11T20:34:53.502186"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Growth-Innovative_Growth_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -653,7 +653,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Growth-Innovative Growth - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469197"
+      "timestamp": "2025-08-11T20:34:53.502206"
     },
     {
       "id": "TikTok_Software_Development_Engineer_in_Test_Intern_-_Tiktok-Privacy_and_Security-Business_Risk_Integrated_Control_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -661,7 +661,7 @@
       "role": "Software Development Engineer in Test Intern - Tiktok-Privacy and Security-Business Risk Integrated Control - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469216"
+      "timestamp": "2025-08-11T20:34:53.502224"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Recommendation_Infrastructure_San_Jose__CA_Software_Engineering",
@@ -669,7 +669,7 @@
       "role": "Software Engineer Intern - Recommendation Infrastructure",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469232"
+      "timestamp": "2025-08-11T20:34:53.502240"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Monetization_Technology_-_Ads_Creative_San_Jose__CA_Software_Engineering",
@@ -677,7 +677,7 @@
       "role": "Software Engineer Intern - Monetization Technology - Ads Creative",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469249"
+      "timestamp": "2025-08-11T20:34:53.502256"
     },
     {
       "id": "TikTok_Software_Development_Engineer_in_Test_Intern_-_Tiktok-Intelligent_Creation_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -685,7 +685,7 @@
       "role": "Software Development Engineer in Test Intern - Tiktok-Intelligent Creation - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469266"
+      "timestamp": "2025-08-11T20:34:53.502272"
     },
     {
       "id": "TikTok_Software_Development_Engineer_in_Test_Intern_-_Tiktok-Global_Live-Fundamental_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -693,7 +693,7 @@
       "role": "Software Development Engineer in Test Intern - Tiktok-Global Live-Fundamental - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469283"
+      "timestamp": "2025-08-11T20:34:53.502288"
     },
     {
       "id": "TikTok_Mobile_Software_Engineer_Intern_-_Tiktok-Pgc_San_Jose__CA_Software_Engineering",
@@ -701,7 +701,7 @@
       "role": "Mobile Software Engineer Intern - Tiktok-Pgc",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469298"
+      "timestamp": "2025-08-11T20:34:53.502303"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Tiktok_Search_Architecture_team_San_Jose__CA_Software_Engineering",
@@ -709,7 +709,7 @@
       "role": "Software Engineer Intern - Tiktok Search Architecture team",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469314"
+      "timestamp": "2025-08-11T20:34:53.502319"
     },
     {
       "id": "TikTok_Mobile_Software_Engineer_Intern_-_Tiktok-Social-Friend_Interaction_San_Jose__CA_Software_Engineering",
@@ -717,7 +717,7 @@
       "role": "Mobile Software Engineer Intern - Tiktok-Social-Friend Interaction",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469330"
+      "timestamp": "2025-08-11T20:34:53.502334"
     },
     {
       "id": "TikTok_Mobile_Audio_Video_Software_Engineer_Intern_-_Tiktok-Intelligent_Creation_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -725,7 +725,7 @@
       "role": "Mobile Audio/Video Software Engineer Intern - Tiktok-Intelligent Creation - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469347"
+      "timestamp": "2025-08-11T20:34:53.502350"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Privacy_and_Security-Data_Lifecycle_Management_Seattle__WA_Software_Engineering",
@@ -733,7 +733,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Privacy and Security-Data Lifecycle Management",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469363"
+      "timestamp": "2025-08-11T20:34:53.502366"
     },
     {
       "id": "TikTok_Mobile_Software_Engineer_Intern_-_Tiktok-Privacy_and_Security-Product_-_2026_Summer_-_BS_MS_Seattle__WA_Software_Engineering",
@@ -741,7 +741,7 @@
       "role": "Mobile Software Engineer Intern - Tiktok-Privacy and Security-Product - 2026 Summer - BS/MS",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469381"
+      "timestamp": "2025-08-11T20:34:53.502383"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Trust_and_Safety-Engineering-Data_Product_&_General_Service_San_Jose__CA_Software_Engineering",
@@ -749,7 +749,7 @@
       "role": "Frontend Engineer Intern - Trust and Safety-Engineering-Data Product & General Service",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469400"
+      "timestamp": "2025-08-11T20:34:53.502401"
     },
     {
       "id": "TikTok_Frontend_Engineer_Intern_-_Trust_and_Safety-Engineering-Risk_&_Response_Seattle__WA_Software_Engineering",
@@ -757,7 +757,7 @@
       "role": "Frontend Engineer Intern - Trust and Safety-Engineering-Risk & Response",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469419"
+      "timestamp": "2025-08-11T20:34:53.502418"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Global_CRM_San_Jose__CA_Software_Engineering",
@@ -765,7 +765,7 @@
       "role": "Software Engineer Intern - Global CRM",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469436"
+      "timestamp": "2025-08-11T20:34:53.502435"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Music-Music_Content_Ecosystem_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -773,7 +773,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Music-Music Content Ecosystem - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469454"
+      "timestamp": "2025-08-11T20:34:53.502452"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Trust_and_Safety_-_Engineering-Core_Safety_Seattle__WA_Software_Engineering",
@@ -781,7 +781,7 @@
       "role": "Software Engineer Intern - Trust and Safety - Engineering-Core Safety",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469471"
+      "timestamp": "2025-08-11T20:34:53.502469"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Social-Graph_LA_Software_Engineering",
@@ -789,7 +789,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Social-Graph",
       "location": "LA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469488"
+      "timestamp": "2025-08-11T20:34:53.502485"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Social-Photo_and_Text_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -797,7 +797,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Social-Photo and Text - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469504"
+      "timestamp": "2025-08-11T20:34:53.502502"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Product_Infrastructure-Customer_Service_Platform_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -805,7 +805,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Product Infrastructure-Customer Service Platform - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469521"
+      "timestamp": "2025-08-11T20:34:53.502519"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-PGC-Ecosystem_Platform_-_2026_Summer_-_BS_MS_Seattle__WA_Software_Engineering",
@@ -813,7 +813,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-PGC-Ecosystem Platform - 2026 Summer - BS/MS",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469538"
+      "timestamp": "2025-08-11T20:34:53.502535"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-Growth-Customer_Lifecycle_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -821,7 +821,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469556"
+      "timestamp": "2025-08-11T20:34:53.502551"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Tiktok-Intelligent_Creation-Creation_Experience_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -829,7 +829,7 @@
       "role": "Software Engineer Intern - Tiktok-Intelligent Creation-Creation Experience - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469572"
+      "timestamp": "2025-08-11T20:34:53.502567"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Tiktok-PGC-AI_Platform_San_Jose__CA_Software_Engineering",
@@ -837,7 +837,7 @@
       "role": "Software Engineer Intern - Tiktok-PGC-AI Platform",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469588"
+      "timestamp": "2025-08-11T20:34:53.502583"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Experimentation_&_Evaluation_-_Data_Platform_San_Jose__CA_Software_Engineering",
@@ -845,7 +845,7 @@
       "role": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469605"
+      "timestamp": "2025-08-11T20:34:53.502599"
     },
     {
       "id": "TikTok_Mobile_Software_Engineer_Intern_-_Tiktok-Intelligent_Creation_-_2026_Summer_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -853,7 +853,7 @@
       "role": "Mobile Software Engineer Intern - Tiktok-Intelligent Creation - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469621"
+      "timestamp": "2025-08-11T20:34:53.502615"
     },
     {
       "id": "TikTok_Backend_Software_Engineer_Intern_-_Tiktok-PGC-Monetization_-_2026_Summer_-_BS_MS_Seattle__WA_Software_Engineering",
@@ -861,7 +861,7 @@
       "role": "Backend Software Engineer Intern - Tiktok-PGC-Monetization - 2026 Summer - BS/MS",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469638"
+      "timestamp": "2025-08-11T20:34:53.502631"
     },
     {
       "id": "ByteDance_Software_Engineer_Intern_-_Payment_Risk_-_Global_Payment_-_BS_MS_San_Jose__CA_Software_Engineering",
@@ -869,7 +869,7 @@
       "role": "Software Engineer Intern - Payment Risk - Global Payment - BS/MS",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469659"
+      "timestamp": "2025-08-11T20:34:53.502651"
     },
     {
       "id": "ByteDance_Software_Engineer_Intern_-_Payment_Network_-_Global_Payment_Seattle__WA_Software_Engineering",
@@ -877,7 +877,7 @@
       "role": "Software Engineer Intern - Payment Network - Global Payment",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469677"
+      "timestamp": "2025-08-11T20:34:53.502668"
     },
     {
       "id": "Roblox_Software_Engineer_Intern_San_Mateo__CA_Software_Engineering",
@@ -885,7 +885,7 @@
       "role": "Software Engineer Intern",
       "location": "San Mateo, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469696"
+      "timestamp": "2025-08-11T20:34:53.502686"
     },
     {
       "id": "Confluent_Software_Engineering_Intern_Austin__TX_Software_Engineering",
@@ -893,7 +893,7 @@
       "role": "Software Engineering Intern",
       "location": "Austin, TX",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469715"
+      "timestamp": "2025-08-11T20:34:53.502720"
     },
     {
       "id": "Talos_Trading_Software_Engineer_Intern__Backend__Dealer_\ud83d\udec2_New_York__NY_Software_Engineering",
@@ -901,7 +901,7 @@
       "role": "Software Engineer Intern, Backend, Dealer \ud83d\udec2",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469738"
+      "timestamp": "2025-08-11T20:34:53.502744"
     },
     {
       "id": "Gimlet_Labs_Software_Engineer_-_Intern_San_Francisco__CA_Software_Engineering",
@@ -909,7 +909,7 @@
       "role": "Software Engineer - Intern",
       "location": "San Francisco, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469801"
+      "timestamp": "2025-08-11T20:34:53.502762"
     },
     {
       "id": "Palantir_Software_Engineer_Intern_New_York__NY_Software_Engineering",
@@ -917,7 +917,7 @@
       "role": "Software Engineer Intern",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469823"
+      "timestamp": "2025-08-11T20:34:53.502781"
     },
     {
       "id": "Talos_Trading_Software_Engineer_Intern__Front-End__PMS_\ud83d\udec2_New_York__NY_Software_Engineering",
@@ -925,7 +925,7 @@
       "role": "Software Engineer Intern, Front-End, PMS \ud83d\udec2",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469847"
+      "timestamp": "2025-08-11T20:34:53.502802"
     },
     {
       "id": "ByteDance_Software_Development_Engineer_in_Test_Intern_-_Global_E-Commerce_San_Jose__CA_Software_Engineering",
@@ -933,7 +933,7 @@
       "role": "Software Development Engineer in Test Intern - Global E-Commerce",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469867"
+      "timestamp": "2025-08-11T20:34:53.502821"
     },
     {
       "id": "BNY_Summer_Internship_Program_-_Engineering_-_Developer_Pittsburgh__PALake_Mary__FLNYC_Software_Engineering",
@@ -941,7 +941,7 @@
       "role": "Summer Internship Program - Engineering - Developer",
       "location": "Pittsburgh, PALake Mary, FLNYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469889"
+      "timestamp": "2025-08-11T20:34:53.502840"
     },
     {
       "id": "Peraton_Summer_2026_University_Internship_Pipeline_Reston__VA_Software_Engineering",
@@ -949,7 +949,7 @@
       "role": "Summer 2026 University Internship Pipeline",
       "location": "Reston, VA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469909"
+      "timestamp": "2025-08-11T20:34:53.502858"
     },
     {
       "id": "Chicago_Trading_Company_Software_Engineering_Internship_Chicago__ILNYC_Software_Engineering",
@@ -957,7 +957,7 @@
       "role": "Software Engineering Internship",
       "location": "Chicago, ILNYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469931"
+      "timestamp": "2025-08-11T20:34:53.502877"
     },
     {
       "id": "ByteDance_Software_Engineer_Intern_-_Payment_Architecture_-_Global_Payment_San_Jose__CA_Software_Engineering",
@@ -965,7 +965,7 @@
       "role": "Software Engineer Intern - Payment Architecture - Global Payment",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469951"
+      "timestamp": "2025-08-11T20:34:53.502895"
     },
     {
       "id": "Marquee_Insurance_Group_Software_Engineer_Intern_\ud83d\udec2_Charleston__SC_Software_Engineering",
@@ -973,7 +973,7 @@
       "role": "Software Engineer Intern \ud83d\udec2",
       "location": "Charleston, SC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469970"
+      "timestamp": "2025-08-11T20:34:53.502913"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_(Data_Ecosystem)_San_Jose__CA_Software_Engineering",
@@ -981,7 +981,7 @@
       "role": "Software Engineer Intern (Data Ecosystem)",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.469989"
+      "timestamp": "2025-08-11T20:34:53.502932"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_(TikTok-Intelligent_Creation_-_Generative_AI_and_Graphics)_San_Jose__CA_Software_Engineering",
@@ -989,7 +989,7 @@
       "role": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470008"
+      "timestamp": "2025-08-11T20:34:53.502950"
     },
     {
       "id": "Baseten_Software_Engineering_Intern_New_York__NYSan_Francisco__CA_Software_Engineering",
@@ -997,7 +997,7 @@
       "role": "Software Engineering Intern",
       "location": "New York, NYSan Francisco, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470028"
+      "timestamp": "2025-08-11T20:34:53.502968"
     },
     {
       "id": "JP_Morgan_Chase_2025_Code_for_Good_Hackathon_\u2013_Summer_Internship_-_Software_Engineer_Program_9_locationsPalo_Alto__CAHouston__TXAustin__TXTampa__FLPlano__TXChicago__ILColumbus__OHNYCWilmington__DE_Software_Engineering",
@@ -1005,7 +1005,7 @@
       "role": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
       "location": "9 locationsPalo Alto, CAHouston, TXAustin, TXTampa, FLPlano, TXChicago, ILColumbus, OHNYCWilmington, DE",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470057"
+      "timestamp": "2025-08-11T20:34:53.502997"
     },
     {
       "id": "Altruist_Software_Engineering_Intern_SF_Software_Engineering",
@@ -1013,7 +1013,7 @@
       "role": "Software Engineering Intern",
       "location": "SF",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470077"
+      "timestamp": "2025-08-11T20:34:53.503016"
     },
     {
       "id": "Altruist_Software_Engineering_Intern_LA_Software_Engineering",
@@ -1021,7 +1021,7 @@
       "role": "Software Engineering Intern",
       "location": "LA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470096"
+      "timestamp": "2025-08-11T20:34:53.503032"
     },
     {
       "id": "Ramp_Software_Engineering_Internship_-_Frontend_New_York__NY_Software_Engineering",
@@ -1029,7 +1029,7 @@
       "role": "Software Engineering Internship - Frontend",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470116"
+      "timestamp": "2025-08-11T20:34:53.503051"
     },
     {
       "id": "Ramp_Software_Engineer_Internship_-_Backend_NYC_Software_Engineering",
@@ -1037,7 +1037,7 @@
       "role": "Software Engineer Internship - Backend",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470134"
+      "timestamp": "2025-08-11T20:34:53.503067"
     },
     {
       "id": "Jump_Trading_Campus_UI_Software_Engineer_\u2013_Intern_London__UK_Software_Engineering",
@@ -1045,7 +1045,7 @@
       "role": "Campus UI Software Engineer \u2013 Intern",
       "location": "London, UK",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470156"
+      "timestamp": "2025-08-11T20:34:53.503088"
     },
     {
       "id": "Jump_Trading_Campus_Software_Engineer_\u2013_Intern_London__UK_Software_Engineering",
@@ -1053,7 +1053,7 @@
       "role": "Campus Software Engineer \u2013 Intern",
       "location": "London, UK",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470174"
+      "timestamp": "2025-08-11T20:34:53.503104"
     },
     {
       "id": "DV_Trading_2026_Summer_Internship_-_Software_Development_-_DV_Commodities_London__UK_Software_Engineering",
@@ -1061,7 +1061,7 @@
       "role": "2026 Summer Internship - Software Development - DV Commodities",
       "location": "London, UK",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470193"
+      "timestamp": "2025-08-11T20:34:53.503124"
     },
     {
       "id": "DV_Trading_2026_Summer_Internship_-_Software_Development_-_DV_Commodities_NYC_Software_Engineering",
@@ -1069,7 +1069,7 @@
       "role": "2026 Summer Internship - Software Development - DV Commodities",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470211"
+      "timestamp": "2025-08-11T20:34:53.503141"
     },
     {
       "id": "Sentry_Software_Engineer_\u2013_Intern_SF_Software_Engineering",
@@ -1077,7 +1077,7 @@
       "role": "Software Engineer \u2013 Intern",
       "location": "SF",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470232"
+      "timestamp": "2025-08-11T20:34:53.503160"
     },
     {
       "id": "Sentry_Software_Engineer_\u2013_Intern_Toronto__ON__Canada_Software_Engineering",
@@ -1085,7 +1085,7 @@
       "role": "Software Engineer \u2013 Intern",
       "location": "Toronto, ON, Canada",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470251"
+      "timestamp": "2025-08-11T20:34:53.503178"
     },
     {
       "id": "Sony_Software_Engineer_Intern_San_Diego__CA_Software_Engineering",
@@ -1093,7 +1093,7 @@
       "role": "Software Engineer Intern",
       "location": "San Diego, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470271"
+      "timestamp": "2025-08-11T20:34:53.503196"
     },
     {
       "id": "HPR_(Hyannis_Port_Research)_Software_Engineering_Intern_\ud83d\udec2_Needham__MA_Software_Engineering",
@@ -1101,7 +1101,7 @@
       "role": "Software Engineering Intern \ud83d\udec2",
       "location": "Needham, MA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470293"
+      "timestamp": "2025-08-11T20:34:53.503217"
     },
     {
       "id": "ByteDance_Software_Development_Engineer_in_Test_Intern_-_Global_E-Commerce_Seattle__WA_Software_Engineering",
@@ -1109,7 +1109,7 @@
       "role": "Software Development Engineer in Test Intern - Global E-Commerce",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470313"
+      "timestamp": "2025-08-11T20:34:53.503236"
     },
     {
       "id": "ByteDance_Frontend_Software_Engineer_Intern_-_Global_E-Commerce_Seattle__WA_Software_Engineering",
@@ -1117,7 +1117,7 @@
       "role": "Frontend Software Engineer Intern - Global E-Commerce",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470331"
+      "timestamp": "2025-08-11T20:34:53.503253"
     },
     {
       "id": "ByteDance_Backend_Software_Engineer_Intern_-_Global_E-Commerce_Seattle__WA_Software_Engineering",
@@ -1125,7 +1125,7 @@
       "role": "Backend Software Engineer Intern - Global E-Commerce",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470348"
+      "timestamp": "2025-08-11T20:34:53.503269"
     },
     {
       "id": "ByteDance_Backend_Software_Engineer_Intern_-_Global_E-Commerce_San_Jose__CA_Software_Engineering",
@@ -1133,7 +1133,7 @@
       "role": "Backend Software Engineer Intern - Global E-Commerce",
       "location": "San Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470364"
+      "timestamp": "2025-08-11T20:34:53.503286"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Infrastructure_London__UK_Software_Engineering",
@@ -1141,7 +1141,7 @@
       "role": "Software Engineer \u2013 Internship - Infrastructure",
       "location": "London, UK",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470385"
+      "timestamp": "2025-08-11T20:34:53.503306"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Production_Infrastructure_London__UK_Software_Engineering",
@@ -1149,7 +1149,7 @@
       "role": "Software Engineer \u2013 Internship - Production Infrastructure",
       "location": "London, UK",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470403"
+      "timestamp": "2025-08-11T20:34:53.503323"
     },
     {
       "id": "Chase_2026_Software_Engineer_Program_\u2013_Summer_Internship_\ud83d\udec2_Austin__TX_Software_Engineering",
@@ -1157,7 +1157,7 @@
       "role": "2026 Software Engineer Program \u2013 Summer Internship \ud83d\udec2",
       "location": "Austin, TX",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470426"
+      "timestamp": "2025-08-11T20:34:53.503345"
     },
     {
       "id": "SciPlay_Software_Engineering_Intern_Cedar_Falls__IA_Software_Engineering",
@@ -1165,7 +1165,7 @@
       "role": "Software Engineering Intern",
       "location": "Cedar Falls, IA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470446"
+      "timestamp": "2025-08-11T20:34:53.503365"
     },
     {
       "id": "M&T_Bank_Technology_Internship_Program_Buffalo__NY_Software_Engineering",
@@ -1173,7 +1173,7 @@
       "role": "Technology Internship Program",
       "location": "Buffalo, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470464"
+      "timestamp": "2025-08-11T20:34:53.503383"
     },
     {
       "id": "DotDash_Meredith_Software_Developer_Intern_Alberta__Canada_Software_Engineering",
@@ -1181,7 +1181,7 @@
       "role": "Software Developer Intern",
       "location": "Alberta, Canada",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470483"
+      "timestamp": "2025-08-11T20:34:53.503401"
     },
     {
       "id": "Baseten_Software_Engineering_Intern_SFNYC_Software_Engineering",
@@ -1189,7 +1189,7 @@
       "role": "Software Engineering Intern",
       "location": "SFNYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470501"
+      "timestamp": "2025-08-11T20:34:53.503420"
     },
     {
       "id": "Tencent_Cloud_Media_Services_Intern_Palo_Alto__CA_Software_Engineering",
@@ -1197,7 +1197,7 @@
       "role": "Cloud Media Services Intern",
       "location": "Palo Alto, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470520"
+      "timestamp": "2025-08-11T20:34:53.503442"
     },
     {
       "id": "Allium_Engineering_Intern_-_AI_\ud83d\udec2_New_York_Software_Engineering",
@@ -1205,7 +1205,7 @@
       "role": "Engineering Intern - AI \ud83d\udec2",
       "location": "New York",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470546"
+      "timestamp": "2025-08-11T20:34:53.503466"
     },
     {
       "id": "Reality_Defender_Computer_Vision_Intern_Global_Remote_Software_Engineering",
@@ -1213,7 +1213,7 @@
       "role": "Computer Vision Intern",
       "location": "Global Remote",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470565"
+      "timestamp": "2025-08-11T20:34:53.503482"
     },
     {
       "id": "Globus_Medical_Software_Engineer_Co-op_Audubon__PA_Software_Engineering",
@@ -1221,7 +1221,7 @@
       "role": "Software Engineer Co-op",
       "location": "Audubon, PA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470585"
+      "timestamp": "2025-08-11T20:34:53.503501"
     },
     {
       "id": "Neuralink_Firmware_Engineer_Intern_\ud83d\udec2_Fremont__CA_Software_Engineering",
@@ -1229,7 +1229,7 @@
       "role": "Firmware Engineer Intern \ud83d\udec2",
       "location": "Fremont, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470606"
+      "timestamp": "2025-08-11T20:34:53.503520"
     },
     {
       "id": "Hewlett_Packard_(HP)_Software_Developer_Internship_Spring__TX_Software_Engineering",
@@ -1237,7 +1237,7 @@
       "role": "Software Developer Internship",
       "location": "Spring, TX",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470625"
+      "timestamp": "2025-08-11T20:34:53.503539"
     },
     {
       "id": "Harmonic_Software_Engineer_Intern_-_Summer_NYC_Software_Engineering",
@@ -1245,7 +1245,7 @@
       "role": "Software Engineer Intern - Summer",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470645"
+      "timestamp": "2025-08-11T20:34:53.503556"
     },
     {
       "id": "Unify_Software_Engineering_Intern_San_Francisco__CANew_York__NY_Software_Engineering",
@@ -1253,7 +1253,7 @@
       "role": "Software Engineering Intern",
       "location": "San Francisco, CANew York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470665"
+      "timestamp": "2025-08-11T20:34:53.503574"
     },
     {
       "id": "Datavisor_Software_Engineer_Mountain_View__CA_Software_Engineering",
@@ -1261,7 +1261,7 @@
       "role": "Software Engineer",
       "location": "Mountain View, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470682"
+      "timestamp": "2025-08-11T20:34:53.503589"
     },
     {
       "id": "AI_Fund_Full-Stack_Engineer_Intern_\ud83d\udec2_San_Francisco__CA_Software_Engineering",
@@ -1269,7 +1269,7 @@
       "role": "Full-Stack Engineer Intern \ud83d\udec2",
       "location": "San Francisco, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470703"
+      "timestamp": "2025-08-11T20:34:53.503609"
     },
     {
       "id": "AI_Fund_Front_Office_Software_Engineer_Internship_Stamford__CT_Software_Engineering",
@@ -1277,7 +1277,7 @@
       "role": "Front Office Software Engineer Internship",
       "location": "Stamford, CT",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470722"
+      "timestamp": "2025-08-11T20:34:53.503627"
     },
     {
       "id": "Hudson_River_Trading_Software_Engineering_Internship_NYC_Software_Engineering",
@@ -1285,7 +1285,7 @@
       "role": "Software Engineering Internship",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470754"
+      "timestamp": "2025-08-11T20:34:53.503645"
     },
     {
       "id": "Arcade_Software_Engineering_Intern_San_Francisco__CA_Software_Engineering",
@@ -1293,7 +1293,7 @@
       "role": "Software Engineering Intern",
       "location": "San Francisco, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470771"
+      "timestamp": "2025-08-11T20:34:53.503661"
     },
     {
       "id": "Arcade_Research_Engineer_Intern__Applied_AI_San_Francisco__CA_Software_Engineering",
@@ -1301,7 +1301,7 @@
       "role": "Research Engineer Intern, Applied AI",
       "location": "San Francisco, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470789"
+      "timestamp": "2025-08-11T20:34:53.503677"
     },
     {
       "id": "PIP_Labs_Engineering_Intern_-_App_Team_San_Francisco__CA_Software_Engineering",
@@ -1309,7 +1309,7 @@
       "role": "Engineering Intern - App Team",
       "location": "San Francisco, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470807"
+      "timestamp": "2025-08-11T20:34:53.503707"
     },
     {
       "id": "Virtu_Financial_Internship_-_Software_Engineer_Austin__TXNYC_Software_Engineering",
@@ -1317,7 +1317,7 @@
       "role": "Internship - Software Engineer",
       "location": "Austin, TXNYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470827"
+      "timestamp": "2025-08-11T20:34:53.503727"
     },
     {
       "id": "The_Trade_Desk_2026_Software_Engineering_Internship_5_locationsIrvine__CANYCBellevue__WADenver__COBoulder__CO_Software_Engineering",
@@ -1325,7 +1325,7 @@
       "role": "2026 Software Engineering Internship",
       "location": "5 locationsIrvine, CANYCBellevue, WADenver, COBoulder, CO",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470850"
+      "timestamp": "2025-08-11T20:34:53.503748"
     },
     {
       "id": "CTC_Software_Engineer_Chicago__ILNew_York__NY_Software_Engineering",
@@ -1333,7 +1333,7 @@
       "role": "Software Engineer",
       "location": "Chicago, ILNew York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470867"
+      "timestamp": "2025-08-11T20:34:53.503765"
     },
     {
       "id": "Susquehanna_Software_Engineering_Intern_Philadelphia__PA_Software_Engineering",
@@ -1341,7 +1341,7 @@
       "role": "Software Engineering Intern",
       "location": "Philadelphia, PA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470883"
+      "timestamp": "2025-08-11T20:34:53.503780"
     },
     {
       "id": "Five_Rings_Software_Developer_New_York_Software_Engineering",
@@ -1349,7 +1349,7 @@
       "role": "Software Developer",
       "location": "New York",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470899"
+      "timestamp": "2025-08-11T20:34:53.503795"
     },
     {
       "id": "BILL_Software_Engineer_Intern_\ud83d\udec2_Draper__UTSan_Jose__CA_Software_Engineering",
@@ -1357,7 +1357,7 @@
       "role": "Software Engineer Intern \ud83d\udec2",
       "location": "Draper, UTSan Jose, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470920"
+      "timestamp": "2025-08-11T20:34:53.503814"
     },
     {
       "id": "Akuna_Capital_Software_Engineer_Intern_-_C++_Chicago__IL_Software_Engineering",
@@ -1365,7 +1365,7 @@
       "role": "Software Engineer Intern - C++",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470940"
+      "timestamp": "2025-08-11T20:34:53.503832"
     },
     {
       "id": "Akuna_Capital_Software_Engineer_Intern_-_Python_Chicago__IL_Software_Engineering",
@@ -1373,7 +1373,7 @@
       "role": "Software Engineer Intern - Python",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470957"
+      "timestamp": "2025-08-11T20:34:53.503848"
     },
     {
       "id": "Akuna_Capital_Software_Engineer_Intern_-_Full_Stack_Web_Chicago__IL_Software_Engineering",
@@ -1381,7 +1381,7 @@
       "role": "Software Engineer Intern - Full Stack Web",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470974"
+      "timestamp": "2025-08-11T20:34:53.503864"
     },
     {
       "id": "Akuna_Capital_Software_Engineer_Intern_-_C#_.NET_Desktop_Chicago__IL_Software_Engineering",
@@ -1389,7 +1389,7 @@
       "role": "Software Engineer Intern - C# .NET Desktop",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.470990"
+      "timestamp": "2025-08-11T20:34:53.503879"
     },
     {
       "id": "Tower_Research_Capital_Software_Developer_Intern_NYC_Software_Engineering",
@@ -1397,7 +1397,7 @@
       "role": "Software Developer Intern",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471008"
+      "timestamp": "2025-08-11T20:34:53.503898"
     },
     {
       "id": "Konrad_Group_Software_Developer_Intern_Toronto__ON__Canada_Software_Engineering",
@@ -1405,7 +1405,7 @@
       "role": "Software Developer Intern",
       "location": "Toronto, ON, Canada",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471028"
+      "timestamp": "2025-08-11T20:34:53.503916"
     },
     {
       "id": "TSMC_Computer_Integrated_Manufacturing_(CIM)_Engineer_Intern_Phoenix__AZ_Software_Engineering",
@@ -1413,7 +1413,7 @@
       "role": "Computer Integrated Manufacturing (CIM) Engineer Intern",
       "location": "Phoenix, AZ",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471045"
+      "timestamp": "2025-08-11T20:34:53.503931"
     },
     {
       "id": "TransMarket_Group_Systems_Engineer_Intern_Chicago__IL_Software_Engineering",
@@ -1421,7 +1421,7 @@
       "role": "Systems Engineer Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471064"
+      "timestamp": "2025-08-11T20:34:53.503949"
     },
     {
       "id": "TransMarket_Group_DevOps_SRE_Intern_Chicago__IL_Software_Engineering",
@@ -1429,7 +1429,7 @@
       "role": "DevOps/SRE Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471081"
+      "timestamp": "2025-08-11T20:34:53.503965"
     },
     {
       "id": "Palantir_Software_Engineer_Intern_Denver__CO_Software_Engineering",
@@ -1437,7 +1437,7 @@
       "role": "Software Engineer Intern",
       "location": "Denver, CO",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471100"
+      "timestamp": "2025-08-11T20:34:53.503982"
     },
     {
       "id": "N1_Software_Engineer_Intern_(Backend__Rust)_New_York_Software_Engineering",
@@ -1445,7 +1445,7 @@
       "role": "Software Engineer Intern (Backend, Rust)",
       "location": "New York",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471118"
+      "timestamp": "2025-08-11T20:34:53.504000"
     },
     {
       "id": "N1_Software_Engineer_Intern_(Fullstack)_New_York_Software_Engineering",
@@ -1453,7 +1453,7 @@
       "role": "Software Engineer Intern (Fullstack)",
       "location": "New York",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471135"
+      "timestamp": "2025-08-11T20:34:53.504016"
     },
     {
       "id": "D._E._Shaw_Software_Developer_Intern_New_York__NY_Software_Engineering",
@@ -1461,7 +1461,7 @@
       "role": "Software Developer Intern",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471151"
+      "timestamp": "2025-08-11T20:34:53.504032"
     },
     {
       "id": "Citadel_Securities_Software_Engineer_Intern_Miami__FLNew_York__NY_Software_Engineering",
@@ -1469,7 +1469,7 @@
       "role": "Software Engineer Intern",
       "location": "Miami, FLNew York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471171"
+      "timestamp": "2025-08-11T20:34:53.504051"
     },
     {
       "id": "Citadel_Securities_Launch_Intern_Miami__FLNew_York__NY_Software_Engineering",
@@ -1477,7 +1477,7 @@
       "role": "Launch Intern",
       "location": "Miami, FLNew York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471187"
+      "timestamp": "2025-08-11T20:34:53.504067"
     },
     {
       "id": "Blackrock_2026_Summer_Intern_16_locationsAtlanta__GABoston__MAChicago__ILMexico_City__MXMiami__FLMontreal__QCNew_York__NYNewport_Beach__CAPrinceton__NJSan_Francisco__CASanta_Monica__CASausalito__CASeattle__WAToronto__CanadaWashington__DCWilmington__DE_Software_Engineering",
@@ -1485,7 +1485,7 @@
       "role": "2026 Summer Intern",
       "location": "16 locationsAtlanta, GABoston, MAChicago, ILMexico City, MXMiami, FLMontreal, QCNew York, NYNewport Beach, CAPrinceton, NJSan Francisco, CASanta Monica, CASausalito, CASeattle, WAToronto, CanadaWashington, DCWilmington, DE",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471212"
+      "timestamp": "2025-08-11T20:34:53.504090"
     },
     {
       "id": "Bank_of_America_Cybersecurity_Intern_4_locationsCharlotte__North_CarolinaDallas__TexasDenver__ColoradoWashington__District_of_Columbia_Software_Engineering",
@@ -1493,7 +1493,7 @@
       "role": "Cybersecurity Intern",
       "location": "4 locationsCharlotte, North CarolinaDallas, TexasDenver, ColoradoWashington, District of Columbia",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471234"
+      "timestamp": "2025-08-11T20:34:53.504113"
     },
     {
       "id": "Apple_Engineering_Program_Management_Intern_United_States_Software_Engineering",
@@ -1501,7 +1501,7 @@
       "role": "Engineering Program Management Intern",
       "location": "United States",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471252"
+      "timestamp": "2025-08-11T20:34:53.504130"
     },
     {
       "id": "Apple_Software_Engineering_Intern_United_States_Software_Engineering",
@@ -1509,7 +1509,7 @@
       "role": "Software Engineering Intern",
       "location": "United States",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471273"
+      "timestamp": "2025-08-11T20:34:53.504150"
     },
     {
       "id": "Abbott_IT_Intern_Waukegan__IL_Software_Engineering",
@@ -1517,7 +1517,7 @@
       "role": "IT Intern",
       "location": "Waukegan, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471288"
+      "timestamp": "2025-08-11T20:34:53.504165"
     },
     {
       "id": "Stevens_Capital_Management_LP_Developer_Intern_Radnor__PA_Software_Engineering",
@@ -1525,7 +1525,7 @@
       "role": "Developer Intern",
       "location": "Radnor, PA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471307"
+      "timestamp": "2025-08-11T20:34:53.504183"
     },
     {
       "id": "DRW_Software_Developer_Intern_Chicago__IL_Software_Engineering",
@@ -1533,7 +1533,7 @@
       "role": "Software Developer Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471326"
+      "timestamp": "2025-08-11T20:34:53.504201"
     },
     {
       "id": "Citadel_Software_Engineer_Intern_Miami__FLChicago__ILNew_York__NY_Software_Engineering",
@@ -1541,7 +1541,7 @@
       "role": "Software Engineer Intern",
       "location": "Miami, FLChicago, ILNew York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471346"
+      "timestamp": "2025-08-11T20:34:53.504220"
     },
     {
       "id": "Optiver_Software_Engineer_Intern_Chicago__IL_Software_Engineering",
@@ -1549,7 +1549,7 @@
       "role": "Software Engineer Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471364"
+      "timestamp": "2025-08-11T20:34:53.504237"
     },
     {
       "id": "Optiver_Software_Engineer_Intern_Austin__TX_Software_Engineering",
@@ -1557,7 +1557,7 @@
       "role": "Software Engineer Intern",
       "location": "Austin, TX",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471380"
+      "timestamp": "2025-08-11T20:34:53.504253"
     },
     {
       "id": "IMC_Trading_Software_Engineer_Intern_Chicago__IL_Software_Engineering",
@@ -1565,7 +1565,7 @@
       "role": "Software Engineer Intern",
       "location": "Chicago, IL",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471398"
+      "timestamp": "2025-08-11T20:34:53.504271"
     },
     {
       "id": "Palantir_Forward_Deployed_Software_Engineer_\u2013_Internship_-_Commercial_New_York__NY_Software_Engineering",
@@ -1573,7 +1573,7 @@
       "role": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471418"
+      "timestamp": "2025-08-11T20:34:53.504290"
     },
     {
       "id": "Palantir_Software_Engineer_Intern_Palo_Alto__CA_Software_Engineering",
@@ -1581,7 +1581,7 @@
       "role": "Software Engineer Intern",
       "location": "Palo Alto, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471434"
+      "timestamp": "2025-08-11T20:34:53.504305"
     },
     {
       "id": "Palantir_Software_Engineer_Intern_New_York__NY_Software_Engineering",
@@ -1589,7 +1589,7 @@
       "role": "Software Engineer Intern",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471449"
+      "timestamp": "2025-08-11T20:34:53.504320"
     },
     {
       "id": "Palantir_Software_Engineer_Intern_Seattle__WA_Software_Engineering",
@@ -1597,7 +1597,7 @@
       "role": "Software Engineer Intern",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471465"
+      "timestamp": "2025-08-11T20:34:53.504335"
     },
     {
       "id": "Palantir_Software_Engineer_Intern_Washington__D.C._Software_Engineering",
@@ -1605,7 +1605,7 @@
       "role": "Software Engineer Intern",
       "location": "Washington, D.C.",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471480"
+      "timestamp": "2025-08-11T20:34:53.504350"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Production_Infrastructure_Seattle__WA_Software_Engineering",
@@ -1613,7 +1613,7 @@
       "role": "Software Engineer \u2013 Internship - Production Infrastructure",
       "location": "Seattle, WA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471499"
+      "timestamp": "2025-08-11T20:34:53.504369"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Infrastructure_New_York__NY_Software_Engineering",
@@ -1621,7 +1621,7 @@
       "role": "Software Engineer \u2013 Internship - Infrastructure",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471516"
+      "timestamp": "2025-08-11T20:34:53.504386"
     },
     {
       "id": "Palantir_Software_Engineer_\u2013_Internship_-_Production_Infrastructure_New_York__NY_Software_Engineering",
@@ -1629,7 +1629,7 @@
       "role": "Software Engineer \u2013 Internship - Production Infrastructure",
       "location": "New York, NY",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471534"
+      "timestamp": "2025-08-11T20:34:53.504402"
     },
     {
       "id": "Capital_One_Technology_Internship_Program_Plano__TXMcLean__VARichmond__VA_Software_Engineering",
@@ -1637,7 +1637,7 @@
       "role": "Technology Internship Program",
       "location": "Plano, TXMcLean, VARichmond, VA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471555"
+      "timestamp": "2025-08-11T20:34:53.504422"
     },
     {
       "id": "Truist_Technology_and_Innovation_Internship_Charlotte__NCAtlanta__GA_Software_Engineering",
@@ -1645,7 +1645,7 @@
       "role": "Technology and Innovation Internship",
       "location": "Charlotte, NCAtlanta, GA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471573"
+      "timestamp": "2025-08-11T20:34:53.504441"
     },
     {
       "id": "Truist_Technology_and_Innovation_Internship_\ud83d\udec2_Charlotte__NCAtlanta__GA_Software_Engineering",
@@ -1653,7 +1653,7 @@
       "role": "Technology and Innovation Internship \ud83d\udec2",
       "location": "Charlotte, NCAtlanta, GA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471590"
+      "timestamp": "2025-08-11T20:34:53.504458"
     },
     {
       "id": "Otis_Software_Engineering_Intern_Farmington__CT_Software_Engineering",
@@ -1661,7 +1661,7 @@
       "role": "Software Engineering Intern",
       "location": "Farmington, CT",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471608"
+      "timestamp": "2025-08-11T20:34:53.504475"
     },
     {
       "id": "Kimley_Horn_Software_Developer_Intern_Raleigh__NC_Software_Engineering",
@@ -1669,7 +1669,7 @@
       "role": "Software Developer Intern",
       "location": "Raleigh, NC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471624"
+      "timestamp": "2025-08-11T20:34:53.504491"
     },
     {
       "id": "CACI_Software_Development_Intern_Dulles__VA_Software_Engineering",
@@ -1677,7 +1677,7 @@
       "role": "Software Development Intern",
       "location": "Dulles, VA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471641"
+      "timestamp": "2025-08-11T20:34:53.504507"
     },
     {
       "id": "Wells_Fargo_2025_Emerging_Talent_Apprentice_-_Lgcc_NYC_Software_Engineering",
@@ -1685,7 +1685,7 @@
       "role": "2025 Emerging Talent Apprentice - Lgcc",
       "location": "NYC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471659"
+      "timestamp": "2025-08-11T20:34:53.504525"
     },
     {
       "id": "Booz_Allen_University_\u2013_Systems_Engineer_Intern_Fayetteville__NC_Software_Engineering",
@@ -1693,7 +1693,7 @@
       "role": "University \u2013 Systems Engineer Intern",
       "location": "Fayetteville, NC",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471678"
+      "timestamp": "2025-08-11T20:34:53.504543"
     },
     {
       "id": "Capital_One_Product_Development_Internship_Program_\ud83d\udec2_Plano__TX_McLean__VA_Software_Engineering",
@@ -1701,7 +1701,7 @@
       "role": "Product Development Internship Program \ud83d\udec2",
       "location": "Plano, TX McLean, VA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471698"
+      "timestamp": "2025-08-11T20:34:53.504563"
     },
     {
       "id": "Skydio_Middleware_Software_Intern_San_Mateo__CA_Software_Engineering",
@@ -1709,7 +1709,7 @@
       "role": "Middleware Software Intern",
       "location": "San Mateo, CA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471717"
+      "timestamp": "2025-08-11T20:34:53.504580"
     },
     {
       "id": "Konrad_Group_Software_Developer_Intern_Toronto__ON__Canada_Software_Engineering",
@@ -1717,7 +1717,7 @@
       "role": "Software Developer Intern",
       "location": "Toronto, ON, Canada",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471735"
+      "timestamp": "2025-08-11T20:34:53.504598"
     },
     {
       "id": "ATPCO_Platform_Capability_Engineering_Intern_Reston__VA_Software_Engineering",
@@ -1725,7 +1725,7 @@
       "role": "Platform Capability Engineering Intern",
       "location": "Reston, VA",
       "category": "Software Engineering",
-      "timestamp": "2025-08-11T20:01:38.471766"
+      "timestamp": "2025-08-11T20:34:53.504616"
     },
     {
       "id": "Belvedere_Trading_Quantitative_Trading_Intern_Chicago__IL_Quantitative_Finance",
@@ -1733,7 +1733,7 @@
       "role": "Quantitative Trading Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472683"
+      "timestamp": "2025-08-11T20:34:53.505558"
     },
     {
       "id": "Jump_Trading_Campus_Quantitative_Researcher_New_York__NYChicago__IL_Quantitative_Finance",
@@ -1741,7 +1741,7 @@
       "role": "Campus Quantitative Researcher",
       "location": "New York, NYChicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472708"
+      "timestamp": "2025-08-11T20:34:53.505582"
     },
     {
       "id": "Jump_Trading_Campus_Quantitative_Trader_New_York__NYChicago__IL_Quantitative_Finance",
@@ -1749,7 +1749,7 @@
       "role": "Campus Quantitative Trader",
       "location": "New York, NYChicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472727"
+      "timestamp": "2025-08-11T20:34:53.505600"
     },
     {
       "id": "Hudson_River_Trading_Algorithm_Trader_\u2013_Internship_-_Quantitative_Trader_NYC_Quantitative_Finance",
@@ -1757,7 +1757,7 @@
       "role": "Algorithm Trader \u2013 Internship - Quantitative Trader",
       "location": "NYC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472766"
+      "timestamp": "2025-08-11T20:34:53.505621"
     },
     {
       "id": "Talos_Trading_Quantitative_Analyst_Intern_\ud83d\udec2_New_York__NY_Quantitative_Finance",
@@ -1765,7 +1765,7 @@
       "role": "Quantitative Analyst Intern \ud83d\udec2",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472790"
+      "timestamp": "2025-08-11T20:34:53.505642"
     },
     {
       "id": "Chicago_Trading_Company_Quant_Trading_Internship_Chicago__IL_Quantitative_Finance",
@@ -1773,7 +1773,7 @@
       "role": "Quant Trading Internship",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472810"
+      "timestamp": "2025-08-11T20:34:53.505662"
     },
     {
       "id": "Altruist_Quantitative_Engineering_Intern_LA_Quantitative_Finance",
@@ -1781,7 +1781,7 @@
       "role": "Quantitative Engineering Intern",
       "location": "LA",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472829"
+      "timestamp": "2025-08-11T20:34:53.505680"
     },
     {
       "id": "Altruist_Quantitative_Engineering_Intern_SF_Quantitative_Finance",
@@ -1789,7 +1789,7 @@
       "role": "Quantitative Engineering Intern",
       "location": "SF",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472846"
+      "timestamp": "2025-08-11T20:34:53.505710"
     },
     {
       "id": "DV_Trading_2026_Summer_Internship_-_Trading_-_DV_Commodities_NYC_Quantitative_Finance",
@@ -1797,7 +1797,7 @@
       "role": "2026 Summer Internship - Trading - DV Commodities",
       "location": "NYC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472866"
+      "timestamp": "2025-08-11T20:34:53.505729"
     },
     {
       "id": "DV_Trading_2026_Summer_Internship_-_Trading_-_DV_Commodities_London__UK_Quantitative_Finance",
@@ -1805,7 +1805,7 @@
       "role": "2026 Summer Internship - Trading - DV Commodities",
       "location": "London, UK",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472883"
+      "timestamp": "2025-08-11T20:34:53.505746"
     },
     {
       "id": "Jump_Trading_Campus_Quantitative_Researcher_\u2013_Intern_London__UK_Quantitative_Finance",
@@ -1813,7 +1813,7 @@
       "role": "Campus Quantitative Researcher \u2013 Intern",
       "location": "London, UK",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472903"
+      "timestamp": "2025-08-11T20:34:53.505765"
     },
     {
       "id": "AQR_Portfolio_Implementation__Trading_and_Portfolio_Finance_Summer_Analyst_Greenwich__CT_Quantitative_Finance",
@@ -1821,7 +1821,7 @@
       "role": "Portfolio Implementation, Trading and Portfolio Finance Summer Analyst",
       "location": "Greenwich, CT",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472920"
+      "timestamp": "2025-08-11T20:34:53.505782"
     },
     {
       "id": "Squarepoint_Intern_Quant_Researcher_New_York_Quantitative_Finance",
@@ -1829,7 +1829,7 @@
       "role": "Intern Quant Researcher",
       "location": "New York",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472936"
+      "timestamp": "2025-08-11T20:34:53.505797"
     },
     {
       "id": "Hudson_River_Trading_Algorithm_Development_\u2013_Internship_-_Quant_Research_NYC_Quantitative_Finance",
@@ -1837,7 +1837,7 @@
       "role": "Algorithm Development \u2013 Internship - Quant Research",
       "location": "NYC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472956"
+      "timestamp": "2025-08-11T20:34:53.505816"
     },
     {
       "id": "Blockhouse_Quantitative_Developer_Internship_New_York__NY_Quantitative_Finance",
@@ -1845,7 +1845,7 @@
       "role": "Quantitative Developer Internship",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472974"
+      "timestamp": "2025-08-11T20:34:53.505834"
     },
     {
       "id": "Virtu_Financial_Internship_-_Quantitative_Trading_Austin__TXChicago__ILNYC_Quantitative_Finance",
@@ -1853,7 +1853,7 @@
       "role": "Internship - Quantitative Trading",
       "location": "Austin, TXChicago, ILNYC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.472993"
+      "timestamp": "2025-08-11T20:34:53.505853"
     },
     {
       "id": "Morgan_Stanley_MSIM-Portfolio_Solutions-Quant_Generalist-Intern_New_York__NY_Quantitative_Finance",
@@ -1861,7 +1861,7 @@
       "role": "MSIM-Portfolio Solutions-Quant Generalist-Intern",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473012"
+      "timestamp": "2025-08-11T20:34:53.505871"
     },
     {
       "id": "Five_Rings_Capital_Summer_Intern_-_Quantitative_Research_Analyst_NYC_Quantitative_Finance",
@@ -1869,7 +1869,7 @@
       "role": "Summer Intern - Quantitative Research Analyst",
       "location": "NYC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473031"
+      "timestamp": "2025-08-11T20:34:53.505888"
     },
     {
       "id": "Walleye_Capital_Central_Risk_Book_\u2013_Quant_Research_Intern_-_Crb_NYC_Quantitative_Finance",
@@ -1877,7 +1877,7 @@
       "role": "Central Risk Book \u2013 Quant Research Intern - Crb",
       "location": "NYC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473052"
+      "timestamp": "2025-08-11T20:34:53.505908"
     },
     {
       "id": "Optiver_Trading_Operations_Analyst_Intern_Chicago__IL_Quantitative_Finance",
@@ -1885,7 +1885,7 @@
       "role": "Trading Operations Analyst Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473070"
+      "timestamp": "2025-08-11T20:34:53.505925"
     },
     {
       "id": "Two_Sigma_Quantitative_Researcher_New_York__NY_Quantitative_Finance",
@@ -1893,7 +1893,7 @@
       "role": "Quantitative Researcher",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473086"
+      "timestamp": "2025-08-11T20:34:53.505940"
     },
     {
       "id": "Akuna_Capital_Quantitative_Research_Chicago__IL_Quantitative_Finance",
@@ -1901,7 +1901,7 @@
       "role": "Quantitative Research",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473104"
+      "timestamp": "2025-08-11T20:34:53.505958"
     },
     {
       "id": "CTC_Quant_Trading_Chicago__IL_Quantitative_Finance",
@@ -1909,7 +1909,7 @@
       "role": "Quant Trading",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473120"
+      "timestamp": "2025-08-11T20:34:53.505973"
     },
     {
       "id": "Five_Rings_Quantitative_Trader_New_York_Quantitative_Finance",
@@ -1917,7 +1917,7 @@
       "role": "Quantitative Trader",
       "location": "New York",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473135"
+      "timestamp": "2025-08-11T20:34:53.505988"
     },
     {
       "id": "Five_Rings_Quantitative_Researcher_New_York_Quantitative_Finance",
@@ -1925,7 +1925,7 @@
       "role": "Quantitative Researcher",
       "location": "New York",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473151"
+      "timestamp": "2025-08-11T20:34:53.506003"
     },
     {
       "id": "Bridgewater_Associates_Investment_Engineer_Intern_\ud83d\udec2_New_York__NY_Quantitative_Finance",
@@ -1933,7 +1933,7 @@
       "role": "Investment Engineer Intern \ud83d\udec2",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473173"
+      "timestamp": "2025-08-11T20:34:53.506023"
     },
     {
       "id": "Akuna_Capital_Quantitative_Development_&_Strategy_Intern_Chicago__IL_Quantitative_Finance",
@@ -1941,7 +1941,7 @@
       "role": "Quantitative Development & Strategy Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473191"
+      "timestamp": "2025-08-11T20:34:53.506041"
     },
     {
       "id": "Akuna_Capital_Quantitative_Research_Intern_Chicago__IL_Quantitative_Finance",
@@ -1949,7 +1949,7 @@
       "role": "Quantitative Research Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473208"
+      "timestamp": "2025-08-11T20:34:53.506057"
     },
     {
       "id": "Citadel_Securities_Credit_&_Rates_Rotational_Trading_Intern_New_York__NY_Quantitative_Finance",
@@ -1957,7 +1957,7 @@
       "role": "Credit & Rates Rotational Trading Intern",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473227"
+      "timestamp": "2025-08-11T20:34:53.506075"
     },
     {
       "id": "Citadel_Securities_Quantitative_Research_Analyst_Intern_-_BS_MS_London__UKParis__France_Quantitative_Finance",
@@ -1965,7 +1965,7 @@
       "role": "Quantitative Research Analyst Intern - BS/MS",
       "location": "London, UKParis, France",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473244"
+      "timestamp": "2025-08-11T20:34:53.506104"
     },
     {
       "id": "Tower_Research_Capital_Quantitative_Trader_Intern_NYC_Quantitative_Finance",
@@ -1973,7 +1973,7 @@
       "role": "Quantitative Trader Intern",
       "location": "NYC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473262"
+      "timestamp": "2025-08-11T20:34:53.506143"
     },
     {
       "id": "Walleye_Capital_Quantitative_Researcher_Intern_Boston__MA_Quantitative_Finance",
@@ -1981,7 +1981,7 @@
       "role": "Quantitative Researcher Intern",
       "location": "Boston, MA",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473280"
+      "timestamp": "2025-08-11T20:34:53.506184"
     },
     {
       "id": "Walleye_Capital_Quantitative_Developer_Intern_Boston__MA_Quantitative_Finance",
@@ -1989,7 +1989,7 @@
       "role": "Quantitative Developer Intern",
       "location": "Boston, MA",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473297"
+      "timestamp": "2025-08-11T20:34:53.506224"
     },
     {
       "id": "Voloridge_Quantitative_Research_Intern_Jupiter__FL_Quantitative_Finance",
@@ -1997,7 +1997,7 @@
       "role": "Quantitative Research Intern",
       "location": "Jupiter, FL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473313"
+      "timestamp": "2025-08-11T20:34:53.506259"
     },
     {
       "id": "Susquehanna_Quantitative_Systematic_Trading_Intern_Bala_Cynwyd__PA_Quantitative_Finance",
@@ -2005,7 +2005,7 @@
       "role": "Quantitative Systematic Trading Intern",
       "location": "Bala Cynwyd, PA",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473330"
+      "timestamp": "2025-08-11T20:34:53.506295"
     },
     {
       "id": "Susquehanna_Quantitative_Research_Intern_Bala_Cynwyd__PA_Quantitative_Finance",
@@ -2013,7 +2013,7 @@
       "role": "Quantitative Research Intern",
       "location": "Bala Cynwyd, PA",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473345"
+      "timestamp": "2025-08-11T20:34:53.506332"
     },
     {
       "id": "Susquehanna_Quantitative_Trader_Intern_Bala_Cynwyd__PA_Quantitative_Finance",
@@ -2021,7 +2021,7 @@
       "role": "Quantitative Trader Intern",
       "location": "Bala Cynwyd, PA",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473361"
+      "timestamp": "2025-08-11T20:34:53.506365"
     },
     {
       "id": "Susquehanna_Quantitative_Strategy_Developer_Intern_Bala_Cynwyd__PA_Quantitative_Finance",
@@ -2029,7 +2029,7 @@
       "role": "Quantitative Strategy Developer Intern",
       "location": "Bala Cynwyd, PA",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473377"
+      "timestamp": "2025-08-11T20:34:53.506398"
     },
     {
       "id": "Radix_Trading_Quantitative_Technologist_Intern_Chicago__IL_Quantitative_Finance",
@@ -2037,7 +2037,7 @@
       "role": "Quantitative Technologist Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473395"
+      "timestamp": "2025-08-11T20:34:53.506433"
     },
     {
       "id": "Point72_Quantitative_Research_Intern_(NLP)_New_York__NY_Quantitative_Finance",
@@ -2045,7 +2045,7 @@
       "role": "Quantitative Research Intern (NLP)",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473413"
+      "timestamp": "2025-08-11T20:34:53.506470"
     },
     {
       "id": "Optiver_Quantitative_Research_Intern_Chicago__IL_Quantitative_Finance",
@@ -2053,7 +2053,7 @@
       "role": "Quantitative Research Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473430"
+      "timestamp": "2025-08-11T20:34:53.506506"
     },
     {
       "id": "Optiver_Quantitative_Research_Intern_Austin__TX_Quantitative_Finance",
@@ -2061,7 +2061,7 @@
       "role": "Quantitative Research Intern",
       "location": "Austin, TX",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473446"
+      "timestamp": "2025-08-11T20:34:53.506537"
     },
     {
       "id": "IMC_Quantitative_Research_Intern__Trading_Chicago__IL_Quantitative_Finance",
@@ -2069,7 +2069,7 @@
       "role": "Quantitative Research Intern, Trading",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473462"
+      "timestamp": "2025-08-11T20:34:53.506568"
     },
     {
       "id": "IMC_Quantitative_Trader_Intern_Chicago__IL_Quantitative_Finance",
@@ -2077,7 +2077,7 @@
       "role": "Quantitative Trader Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473477"
+      "timestamp": "2025-08-11T20:34:53.506599"
     },
     {
       "id": "D._E._Shaw_Proprietary_Trading_Intern_New_York__NY_Quantitative_Finance",
@@ -2085,7 +2085,7 @@
       "role": "Proprietary Trading Intern",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473499"
+      "timestamp": "2025-08-11T20:34:53.506630"
     },
     {
       "id": "Citi_Quantitative_Analyst_Intern_New_York__NY_Quantitative_Finance",
@@ -2093,7 +2093,7 @@
       "role": "Quantitative Analyst Intern",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473515"
+      "timestamp": "2025-08-11T20:34:53.506661"
     },
     {
       "id": "Citadel_Securities_Trading_Fundamental_Analyst_Intern_Miami__FLNew_York__NY_Quantitative_Finance",
@@ -2101,7 +2101,7 @@
       "role": "Trading Fundamental Analyst Intern",
       "location": "Miami, FLNew York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473534"
+      "timestamp": "2025-08-11T20:34:53.506785"
     },
     {
       "id": "Citadel_Securities_Quantitative_Trading_Intern_Miami__FLNew_York__NY_Quantitative_Finance",
@@ -2109,7 +2109,7 @@
       "role": "Quantitative Trading Intern",
       "location": "Miami, FLNew York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473551"
+      "timestamp": "2025-08-11T20:34:53.506821"
     },
     {
       "id": "Citadel_Securities_Quantitative_Research_Analyst_Intern_Miami__FLNew_York__NY_Quantitative_Finance",
@@ -2117,7 +2117,7 @@
       "role": "Quantitative Research Analyst Intern",
       "location": "Miami, FLNew York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473568"
+      "timestamp": "2025-08-11T20:34:53.506852"
     },
     {
       "id": "Citadel_Securities_Designated_Market_Maker_(DMM)_Trading_Intern_New_York__NY_Quantitative_Finance",
@@ -2125,7 +2125,7 @@
       "role": "Designated Market Maker (DMM) Trading Intern",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473585"
+      "timestamp": "2025-08-11T20:34:53.506880"
     },
     {
       "id": "Citadel_Quantitative_Research_Analyst_Intern_Greenwich__CTMiami__FLNew_York__NY_Quantitative_Finance",
@@ -2133,7 +2133,7 @@
       "role": "Quantitative Research Analyst Intern",
       "location": "Greenwich, CTMiami, FLNew York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473605"
+      "timestamp": "2025-08-11T20:34:53.506917"
     },
     {
       "id": "BNP_Paribas_Quant_Research_&_Trading_Intern_New_York__NY_Quantitative_Finance",
@@ -2141,7 +2141,7 @@
       "role": "Quant Research & Trading Intern",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473621"
+      "timestamp": "2025-08-11T20:34:53.506948"
     },
     {
       "id": "Bank_of_America_Quantitative_Data_Analytics_Summer_Analyst_Intern_4_locationsAtlanta__GACharlotte__NCChicago__ILNew_York__NY_Quantitative_Finance",
@@ -2149,7 +2149,7 @@
       "role": "Quantitative Data Analytics Summer Analyst Intern",
       "location": "4 locationsAtlanta, GACharlotte, NCChicago, ILNew York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473643"
+      "timestamp": "2025-08-11T20:34:53.506972"
     },
     {
       "id": "Optiver_Quantitative_Research_Intern_Austin__TX_Quantitative_Finance",
@@ -2157,7 +2157,7 @@
       "role": "Quantitative Research Intern",
       "location": "Austin, TX",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473661"
+      "timestamp": "2025-08-11T20:34:53.506991"
     },
     {
       "id": "Optiver_Quantitative_Research_Intern_Chicago__IL_Quantitative_Finance",
@@ -2165,7 +2165,7 @@
       "role": "Quantitative Research Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473677"
+      "timestamp": "2025-08-11T20:34:53.507007"
     },
     {
       "id": "Optiver_Quantitative_Trader_Intern_-_Summer_2026_Chicago__IL_Quantitative_Finance",
@@ -2173,7 +2173,7 @@
       "role": "Quantitative Trader Intern - Summer 2026",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473694"
+      "timestamp": "2025-08-11T20:34:53.507023"
     },
     {
       "id": "IMC_Trading_Quantitative_Research_Intern_-_BS_MS_Chicago__IL_Quantitative_Finance",
@@ -2181,7 +2181,7 @@
       "role": "Quantitative Research Intern - BS/MS",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473712"
+      "timestamp": "2025-08-11T20:34:53.507041"
     },
     {
       "id": "IMC_Trading_Quantitative_Trader_Intern_Chicago__IL_Quantitative_Finance",
@@ -2189,7 +2189,7 @@
       "role": "Quantitative Trader Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473728"
+      "timestamp": "2025-08-11T20:34:53.507057"
     },
     {
       "id": "TransMarket_Group_Quantitative_Trader_Intern_Chicago__IL_Quantitative_Finance",
@@ -2197,7 +2197,7 @@
       "role": "Quantitative Trader Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473778"
+      "timestamp": "2025-08-11T20:34:53.507075"
     },
     {
       "id": "TransMarket_Group_Algorithmic_Trader_Intern_Chicago__IL_Quantitative_Finance",
@@ -2205,7 +2205,7 @@
       "role": "Algorithmic Trader Intern",
       "location": "Chicago, IL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473812"
+      "timestamp": "2025-08-11T20:34:53.507093"
     },
     {
       "id": "U.S._Bank_Capital_Markets_Summer_Intern-Investment_Grade_Sales_&_Trading_Charlotte__NC_Quantitative_Finance",
@@ -2213,7 +2213,7 @@
       "role": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
       "location": "Charlotte, NC",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473835"
+      "timestamp": "2025-08-11T20:34:53.507114"
     },
     {
       "id": "Walleye_Capital_Risk_Quant_Research_Intern_New_York__NY_Quantitative_Finance",
@@ -2221,7 +2221,7 @@
       "role": "Risk Quant Research Intern",
       "location": "New York, NY",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473853"
+      "timestamp": "2025-08-11T20:34:53.507132"
     },
     {
       "id": "Walleye_Capital_Equity_Volatility_Quant_Researcher_Intern_Miami__FL_Quantitative_Finance",
@@ -2229,7 +2229,7 @@
       "role": "Equity Volatility Quant Researcher Intern",
       "location": "Miami, FL",
       "category": "Quantitative Finance",
-      "timestamp": "2025-08-11T20:01:38.473870"
+      "timestamp": "2025-08-11T20:34:53.507148"
     },
     {
       "id": "Samsung_Summer_Internship_Austin__TX_Hardware_Engineering",
@@ -2237,7 +2237,7 @@
       "role": "Summer Internship",
       "location": "Austin, TX",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474432"
+      "timestamp": "2025-08-11T20:34:53.507735"
     },
     {
       "id": "TikTok_Intelligent_Camera_Effects_Software_Engineer_Intern_-_Effect-Tiktok_San_Jose__CA_Hardware_Engineering",
@@ -2245,7 +2245,7 @@
       "role": "Intelligent Camera Effects Software Engineer Intern - Effect-Tiktok",
       "location": "San Jose, CA",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474454"
+      "timestamp": "2025-08-11T20:34:53.507759"
     },
     {
       "id": "IMC_Trading_Hardware_Engineer_Intern_Chicago__IL_Hardware_Engineering",
@@ -2253,7 +2253,7 @@
       "role": "Hardware Engineer Intern",
       "location": "Chicago, IL",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474474"
+      "timestamp": "2025-08-11T20:34:53.507778"
     },
     {
       "id": "Jump_Trading_Campus_FPGA_Engineer_\u2013_Intern_London__UK_Hardware_Engineering",
@@ -2261,7 +2261,7 @@
       "role": "Campus FPGA Engineer \u2013 Intern",
       "location": "London, UK",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474497"
+      "timestamp": "2025-08-11T20:34:53.507800"
     },
     {
       "id": "Jump_Trading_Campus_ASIC_Engineer_\u2013_Intern_Bristol__UK_Hardware_Engineering",
@@ -2269,7 +2269,7 @@
       "role": "Campus ASIC Engineer \u2013 Intern",
       "location": "Bristol, UK",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474515"
+      "timestamp": "2025-08-11T20:34:53.507818"
     },
     {
       "id": "PennState_University_Embedded_Systems_and_Hardware_Co-Op_\ud83c\uddfa\ud83c\uddf8_Warminster__PA_Hardware_Engineering",
@@ -2277,7 +2277,7 @@
       "role": "Embedded Systems and Hardware Co-Op \ud83c\uddfa\ud83c\uddf8",
       "location": "Warminster, PA",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474538"
+      "timestamp": "2025-08-11T20:34:53.507841"
     },
     {
       "id": "Komatsu_Embedded_Controls_Software_Intern_Warrendale__PA_Hardware_Engineering",
@@ -2285,7 +2285,7 @@
       "role": "Embedded Controls Software Intern",
       "location": "Warrendale, PA",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474556"
+      "timestamp": "2025-08-11T20:34:53.507858"
     },
     {
       "id": "Globus_Medical_Software_Engineer_Co-op_Audubon__PA_Hardware_Engineering",
@@ -2293,7 +2293,7 @@
       "role": "Software Engineer Co-op",
       "location": "Audubon, PA",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474575"
+      "timestamp": "2025-08-11T20:34:53.507877"
     },
     {
       "id": "General_Dynamics_Embedded_Software_Engineering_Co-Op_\ud83d\udec2_Scottsdale__AZ_Hardware_Engineering",
@@ -2301,7 +2301,7 @@
       "role": "Embedded Software Engineering Co-Op \ud83d\udec2",
       "location": "Scottsdale, AZ",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474594"
+      "timestamp": "2025-08-11T20:34:53.507895"
     },
     {
       "id": "Lynk_Summer_Intern_-_Telecommunications_Washington__DC_Hardware_Engineering",
@@ -2309,7 +2309,7 @@
       "role": "Summer Intern - Telecommunications",
       "location": "Washington, DC",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474614"
+      "timestamp": "2025-08-11T20:34:53.507914"
     },
     {
       "id": "Lynk_Software_Engineering_Intern_Washington__DC_Hardware_Engineering",
@@ -2317,7 +2317,7 @@
       "role": "Software Engineering Intern",
       "location": "Washington, DC",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474631"
+      "timestamp": "2025-08-11T20:34:53.507931"
     },
     {
       "id": "Eight_Sleep_Hardware_Support_&_Test_Intern_San_Francisco__CA_Hardware_Engineering",
@@ -2325,7 +2325,7 @@
       "role": "Hardware Support & Test Intern",
       "location": "San Francisco, CA",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474650"
+      "timestamp": "2025-08-11T20:34:53.507949"
     },
     {
       "id": "Ciena_Embedded_Software_Engineer_Co-Op_Ottawa__ON__Canada_Hardware_Engineering",
@@ -2333,7 +2333,7 @@
       "role": "Embedded Software Engineer Co-Op",
       "location": "Ottawa, ON, Canada",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474669"
+      "timestamp": "2025-08-11T20:34:53.507968"
     },
     {
       "id": "Tenstorrent_CPU_Design_Verification_Intern_\ud83c\uddfa\ud83c\uddf8_Austin__TXSanta_Clara__CA_Hardware_Engineering",
@@ -2341,7 +2341,7 @@
       "role": "CPU Design Verification Intern \ud83c\uddfa\ud83c\uddf8",
       "location": "Austin, TXSanta Clara, CA",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474691"
+      "timestamp": "2025-08-11T20:34:53.507988"
     },
     {
       "id": "Tenstorrent_Acceleration_Kernel_Developer_Intern_\ud83c\uddfa\ud83c\uddf8_Toronto__ON__CanadaSanta_Clara__CA_Hardware_Engineering",
@@ -2349,7 +2349,7 @@
       "role": "Acceleration Kernel Developer Intern \ud83c\uddfa\ud83c\uddf8",
       "location": "Toronto, ON, CanadaSanta Clara, CA",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474710"
+      "timestamp": "2025-08-11T20:34:53.508007"
     },
     {
       "id": "Tenstorrent_CPU_Core_Performance_Verification_Intern_-_CPU_AI_Hardware_\ud83c\uddfa\ud83c\uddf8_Austin__TX_Hardware_Engineering",
@@ -2357,7 +2357,7 @@
       "role": "CPU Core Performance Verification Intern - CPU/AI Hardware \ud83c\uddfa\ud83c\uddf8",
       "location": "Austin, TX",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474729"
+      "timestamp": "2025-08-11T20:34:53.508025"
     },
     {
       "id": "Optiver_FPGA_Engineer_Intern_Chicago__IL_Hardware_Engineering",
@@ -2365,7 +2365,7 @@
       "role": "FPGA Engineer Intern",
       "location": "Chicago, IL",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474768"
+      "timestamp": "2025-08-11T20:34:53.508042"
     },
     {
       "id": "Optiver_FPGA_Engineer_Intern_Austin__TX_Hardware_Engineering",
@@ -2373,7 +2373,7 @@
       "role": "FPGA Engineer Intern",
       "location": "Austin, TX",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474786"
+      "timestamp": "2025-08-11T20:34:53.508058"
     },
     {
       "id": "Akuna_Capital_Hardware_Engineer_Intern_Chicago__IL_Hardware_Engineering",
@@ -2381,7 +2381,7 @@
       "role": "Hardware Engineer Intern",
       "location": "Chicago, IL",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474806"
+      "timestamp": "2025-08-11T20:34:53.508076"
     },
     {
       "id": "Citadel_Securities_FPGA_Engineer_Intern_Miami__FLNew_York__NY_Hardware_Engineering",
@@ -2389,7 +2389,7 @@
       "role": "FPGA Engineer Intern",
       "location": "Miami, FLNew York, NY",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474826"
+      "timestamp": "2025-08-11T20:34:53.508094"
     },
     {
       "id": "Apple_Hardware_Technology_Intern_United_States_Hardware_Engineering",
@@ -2397,7 +2397,7 @@
       "role": "Hardware Technology Intern",
       "location": "United States",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474845"
+      "timestamp": "2025-08-11T20:34:53.508112"
     },
     {
       "id": "Apple_Hardware_Engineering_Intern_United_States_Hardware_Engineering",
@@ -2405,7 +2405,7 @@
       "role": "Hardware Engineering Intern",
       "location": "United States",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474862"
+      "timestamp": "2025-08-11T20:34:53.508128"
     },
     {
       "id": "Western_Digital_Software_Engineering_Co-Op_Rochester__MN_Hardware_Engineering",
@@ -2413,7 +2413,7 @@
       "role": "Software Engineering Co-Op",
       "location": "Rochester, MN",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474881"
+      "timestamp": "2025-08-11T20:34:53.508146"
     },
     {
       "id": "Tenstorrent_RTL_Design_Intern_-_CPU_AI_Hardware_\ud83c\uddfa\ud83c\uddf8_Austin__TX_Hardware_Engineering",
@@ -2421,7 +2421,7 @@
       "role": "RTL Design Intern - CPU/AI Hardware \ud83c\uddfa\ud83c\uddf8",
       "location": "Austin, TX",
       "category": "Hardware Engineering",
-      "timestamp": "2025-08-11T20:01:38.474902"
+      "timestamp": "2025-08-11T20:34:53.508166"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Data-Search-Tiktok_Recommendation_Team_-_BS_MS_Seattle__WA_Data_Science__AI_&_ML",
@@ -2429,7 +2429,7 @@
       "role": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - BS/MS",
       "location": "Seattle, WA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.475922"
+      "timestamp": "2025-08-11T20:34:53.509168"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Data-Search-Tiktok_Recommendation_Team_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2437,7 +2437,7 @@
       "role": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.475943"
+      "timestamp": "2025-08-11T20:34:53.509189"
     },
     {
       "id": "TikTok_AI_Effects_Workflow_Engineer_Intern_-_Tiktok-Intelligent_Creation-LLM_Driven_Creation_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2445,7 +2445,7 @@
       "role": "AI Effects Workflow Engineer Intern - Tiktok-Intelligent Creation-LLM Driven Creation - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.475968"
+      "timestamp": "2025-08-11T20:34:53.509211"
     },
     {
       "id": "Bank_of_New_York_Mellon_2026_BNY_Summer_Internship_Program_-_Engineering_-_Data_Science_-_Early_Talent_and_University_Programs_Pittsburgh__PALake_Mary__FLNYC_Data_Science__AI_&_ML",
@@ -2453,7 +2453,7 @@
       "role": "2026 BNY Summer Internship Program - Engineering - Data Science - Early Talent and University Programs",
       "location": "Pittsburgh, PALake Mary, FLNYC",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.475991"
+      "timestamp": "2025-08-11T20:34:53.509234"
     },
     {
       "id": "TikTok_Issue_Discovery_Operation_Intern_-_Tiktok-Product-Content_Ecosystem_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2461,7 +2461,7 @@
       "role": "Issue Discovery Operation Intern - Tiktok-Product-Content Ecosystem - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476011"
+      "timestamp": "2025-08-11T20:34:53.509253"
     },
     {
       "id": "TikTok_LLM_Operation_Intern_-_Tiktok-Product-Content_Ecosystem_-_2026_Summer_Start_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2469,7 +2469,7 @@
       "role": "LLM Operation Intern - Tiktok-Product-Content Ecosystem - 2026 Summer Start - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476029"
+      "timestamp": "2025-08-11T20:34:53.509271"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Monetization_Technology_-_Ads_Creative_AI_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2477,7 +2477,7 @@
       "role": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative AI",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476047"
+      "timestamp": "2025-08-11T20:34:53.509288"
     },
     {
       "id": "TikTok_Data_Scientist_Intern_-_Privacy_and_Data_Protection_Office_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2485,7 +2485,7 @@
       "role": "Data Scientist Intern - Privacy and Data Protection Office - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476065"
+      "timestamp": "2025-08-11T20:34:53.509303"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Tiktok-Business_Risk_Integrated_Control-Community_Health_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2493,7 +2493,7 @@
       "role": "Machine Learning Engineer Intern - Tiktok-Business Risk Integrated Control-Community Health - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476082"
+      "timestamp": "2025-08-11T20:34:53.509320"
     },
     {
       "id": "TikTok_Data_Scientist_Intern_-_Tiktok-Product-Data_Science_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2501,7 +2501,7 @@
       "role": "Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476099"
+      "timestamp": "2025-08-11T20:34:53.509336"
     },
     {
       "id": "TikTok_Data_Scientist_Intern_-_Tiktok_LIVE-Data_Science_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2509,7 +2509,7 @@
       "role": "Data Scientist Intern - Tiktok LIVE-Data Science - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476116"
+      "timestamp": "2025-08-11T20:34:53.509351"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Monetization_GenAI_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2517,7 +2517,7 @@
       "role": "Machine Learning Engineer Intern - Monetization GenAI",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476133"
+      "timestamp": "2025-08-11T20:34:53.509367"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Agentic_AI_Engine_-_Data_Management_platform_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2525,7 +2525,7 @@
       "role": "Software Engineer Intern - Agentic AI Engine - Data Management platform",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476149"
+      "timestamp": "2025-08-11T20:34:53.509383"
     },
     {
       "id": "TikTok_Global_Monetization_Strategy_and_Analytics_Intern_-_Mso_-_BS_MS_NYC_Data_Science__AI_&_ML",
@@ -2533,7 +2533,7 @@
       "role": "Global Monetization Strategy and Analytics Intern - Mso - BS/MS",
       "location": "NYC",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476166"
+      "timestamp": "2025-08-11T20:34:53.509398"
     },
     {
       "id": "ConocoPhillips_Intern_\u2013_Land_Administration_GIS_Bartlesville__OK_Data_Science__AI_&_ML",
@@ -2541,7 +2541,7 @@
       "role": "Intern \u2013 Land Administration GIS",
       "location": "Bartlesville, OK",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476188"
+      "timestamp": "2025-08-11T20:34:53.509419"
     },
     {
       "id": "ConocoPhillips_Intern_\u2013_Land_GIS_Analyst_Midland__TXHouston__TXBartlesville__OK_Data_Science__AI_&_ML",
@@ -2549,7 +2549,7 @@
       "role": "Intern \u2013 Land GIS Analyst",
       "location": "Midland, TXHouston, TXBartlesville, OK",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476207"
+      "timestamp": "2025-08-11T20:34:53.509438"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Tiktok-Engine_and_Tools-3D_graphics_-_2026_Start_-_PhD_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2557,7 +2557,7 @@
       "role": "Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476227"
+      "timestamp": "2025-08-11T20:34:53.509457"
     },
     {
       "id": "TikTok_Data_Engineer_Intern_-_E-commerce_Seattle__WA_Data_Science__AI_&_ML",
@@ -2565,7 +2565,7 @@
       "role": "Data Engineer Intern - E-commerce",
       "location": "Seattle, WA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476244"
+      "timestamp": "2025-08-11T20:34:53.509474"
     },
     {
       "id": "ByteDance_Software_Engineer_Intern_-_Applied_Machine_Learning-Enterprise_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2573,7 +2573,7 @@
       "role": "Software Engineer Intern - Applied Machine Learning-Enterprise",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476263"
+      "timestamp": "2025-08-11T20:34:53.509492"
     },
     {
       "id": "TikTok_Data_Scientist_Intern_-_Tiktok-Search_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2581,7 +2581,7 @@
       "role": "Data Scientist Intern - Tiktok-Search",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476282"
+      "timestamp": "2025-08-11T20:34:53.509510"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Monetization_Technology_-_Ads_Creative_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2589,7 +2589,7 @@
       "role": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476298"
+      "timestamp": "2025-08-11T20:34:53.509527"
     },
     {
       "id": "TikTok_Software_Engineer_Intern_-_Tiktok-PGC-LLM_Applications_and_AI_Agents_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2597,7 +2597,7 @@
       "role": "Software Engineer Intern - Tiktok-PGC-LLM Applications and AI Agents - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476316"
+      "timestamp": "2025-08-11T20:34:53.509543"
     },
     {
       "id": "TikTok_Data_Engineer_Intern_-_Data_Platfrom_Tiktok_BP_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2605,7 +2605,7 @@
       "role": "Data Engineer Intern - Data Platfrom Tiktok BP",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476332"
+      "timestamp": "2025-08-11T20:34:53.509559"
     },
     {
       "id": "TikTok_Data_Engineer_Intern_-_E-commerce_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2613,7 +2613,7 @@
       "role": "Data Engineer Intern - E-commerce",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476349"
+      "timestamp": "2025-08-11T20:34:53.509574"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Tiktok_Search_Team_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2621,7 +2621,7 @@
       "role": "Machine Learning Engineer Intern - Tiktok Search Team",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476365"
+      "timestamp": "2025-08-11T20:34:53.509590"
     },
     {
       "id": "TikTok_Data_Engineer_Intern_-_Tiktok-Privacy_and_Security-Data_Infra_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2629,7 +2629,7 @@
       "role": "Data Engineer Intern - Tiktok-Privacy and Security-Data Infra - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476382"
+      "timestamp": "2025-08-11T20:34:53.509606"
     },
     {
       "id": "TikTok_Data_Scientist_Intern_-_Tiktok-Business_Risk_Integrated_Control-Risk_Measurement_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2637,7 +2637,7 @@
       "role": "Data Scientist Intern - Tiktok-Business Risk Integrated Control-Risk Measurement - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476399"
+      "timestamp": "2025-08-11T20:34:53.509622"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Tiktok_Search_Local_Services_team_-_2026_Summer_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2645,7 +2645,7 @@
       "role": "Machine Learning Engineer Intern - Tiktok Search Local Services team - 2026 Summer - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476416"
+      "timestamp": "2025-08-11T20:34:53.509638"
     },
     {
       "id": "TikTok_Machine_Learning_Engineer_Intern_-_Tiktok_Search_E-Commerce_team_-_BS_MS_San_Jose__CA_Data_Science__AI_&_ML",
@@ -2653,7 +2653,7 @@
       "role": "Machine Learning Engineer Intern - Tiktok Search E-Commerce team - BS/MS",
       "location": "San Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476432"
+      "timestamp": "2025-08-11T20:34:53.509654"
     },
     {
       "id": "Sun_Life_Digital_Analytics_Intern_Toronto__ON__Canada_Data_Science__AI_&_ML",
@@ -2661,7 +2661,7 @@
       "role": "Digital Analytics Intern",
       "location": "Toronto, ON, Canada",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476451"
+      "timestamp": "2025-08-11T20:34:53.509672"
     },
     {
       "id": "BNY_Summer_Internship_Program_-_Engineering_-_Data_Science_Pittsburgh__PALake_Mary__FLNYC_Data_Science__AI_&_ML",
@@ -2669,7 +2669,7 @@
       "role": "Summer Internship Program - Engineering - Data Science",
       "location": "Pittsburgh, PALake Mary, FLNYC",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476473"
+      "timestamp": "2025-08-11T20:34:53.509692"
     },
     {
       "id": "Cultivarium_Computer_Vision_and_Machine_Learning_Intern_\ud83d\udec2_Watertown__MA_Data_Science__AI_&_ML",
@@ -2677,7 +2677,7 @@
       "role": "Computer Vision and Machine Learning Intern \ud83d\udec2",
       "location": "Watertown, MA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476492"
+      "timestamp": "2025-08-11T20:34:53.509722"
     },
     {
       "id": "New_York_Life_Technology_Analyst_Intern_New_York__NY_Data_Science__AI_&_ML",
@@ -2685,7 +2685,7 @@
       "role": "Technology Analyst Intern",
       "location": "New York, NY",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476509"
+      "timestamp": "2025-08-11T20:34:53.509739"
     },
     {
       "id": "PennState_University_Navigation_\u2013_And_Controls_Co-Op_-_Estimation_\ud83c\uddfa\ud83c\uddf8_Warminster__PA_Data_Science__AI_&_ML",
@@ -2693,7 +2693,7 @@
       "role": "Navigation \u2013 And Controls Co-Op - Estimation \ud83c\uddfa\ud83c\uddf8",
       "location": "Warminster, PA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476531"
+      "timestamp": "2025-08-11T20:34:53.509762"
     },
     {
       "id": "Chase_2026_Data_Science_Analyst_Program_\u2013_Summer_Analyst_5_locationsDelawareDallas__TXChicago__ILColumbus__OHNYC_Data_Science__AI_&_ML",
@@ -2701,7 +2701,7 @@
       "role": "2026 Data Science Analyst Program \u2013 Summer Analyst",
       "location": "5 locationsDelawareDallas, TXChicago, ILColumbus, OHNYC",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476556"
+      "timestamp": "2025-08-11T20:34:53.509786"
     },
     {
       "id": "Hudl_Marketing_Analytics_Intern_Lincoln__NE_Data_Science__AI_&_ML",
@@ -2709,7 +2709,7 @@
       "role": "Marketing Analytics Intern",
       "location": "Lincoln, NE",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476576"
+      "timestamp": "2025-08-11T20:34:53.509806"
     },
     {
       "id": "Tencent_Agent_Development_Intern_-_Marketing_and_UA_Support_London__UK_Data_Science__AI_&_ML",
@@ -2717,7 +2717,7 @@
       "role": "Agent Development Intern - Marketing and UA Support",
       "location": "London, UK",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476595"
+      "timestamp": "2025-08-11T20:34:53.509825"
     },
     {
       "id": "Wealth.com_Applied_Scientist_-_AI_ML_Remote_in_USA_Data_Science__AI_&_ML",
@@ -2725,7 +2725,7 @@
       "role": "Applied Scientist - AI/ML",
       "location": "Remote in USA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476614"
+      "timestamp": "2025-08-11T20:34:53.509842"
     },
     {
       "id": "HarbourVest_Portfolio_Analytics_Intern_Boston__MA_Data_Science__AI_&_ML",
@@ -2733,7 +2733,7 @@
       "role": "Portfolio Analytics Intern",
       "location": "Boston, MA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476633"
+      "timestamp": "2025-08-11T20:34:53.509860"
     },
     {
       "id": "Asana_Data_Science_Intern_Vancouver__Canada_Data_Science__AI_&_ML",
@@ -2741,7 +2741,7 @@
       "role": "Data Science Intern",
       "location": "Vancouver, Canada",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476651"
+      "timestamp": "2025-08-11T20:34:53.509877"
     },
     {
       "id": "Asana_Data_Science_Intern_San_Francisco__CA_Data_Science__AI_&_ML",
@@ -2749,7 +2749,7 @@
       "role": "Data Science Intern",
       "location": "San Francisco, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476667"
+      "timestamp": "2025-08-11T20:34:53.509893"
     },
     {
       "id": "Gimlet_Labs_AI_Researcher_\u2013_Intern_San_Francisco__CA_Data_Science__AI_&_ML",
@@ -2757,7 +2757,7 @@
       "role": "AI Researcher \u2013 Intern",
       "location": "San Francisco, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476687"
+      "timestamp": "2025-08-11T20:34:53.509913"
     },
     {
       "id": "Arcade_AI_Intern_\u2013_Research_Engineer_-_Applied_AI_South_Bay__SF_Data_Science__AI_&_ML",
@@ -2765,7 +2765,7 @@
       "role": "Intern \u2013 Research Engineer - Applied AI",
       "location": "South Bay, SF",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476707"
+      "timestamp": "2025-08-11T20:34:53.509932"
     },
     {
       "id": "Castleton_Commodities_International_GenAI_Internship_Houston__TX_Data_Science__AI_&_ML",
@@ -2773,7 +2773,7 @@
       "role": "GenAI Internship",
       "location": "Houston, TX",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476726"
+      "timestamp": "2025-08-11T20:34:53.509950"
     },
     {
       "id": "Castleton_Commodities_International_Data_Science_Machine_Learning_Internship_London__UK_Data_Science__AI_&_ML",
@@ -2781,7 +2781,7 @@
       "role": "Data Science Machine Learning Internship",
       "location": "London, UK",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476756"
+      "timestamp": "2025-08-11T20:34:53.509967"
     },
     {
       "id": "Castleton_Commodities_International_Data_Science_Machine_Learning_Internship_Houston__TXStamford__CTNYC_Data_Science__AI_&_ML",
@@ -2789,7 +2789,7 @@
       "role": "Data Science Machine Learning Internship",
       "location": "Houston, TXStamford, CTNYC",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476775"
+      "timestamp": "2025-08-11T20:34:53.509984"
     },
     {
       "id": "Castleton_Commodities_International_Data_Engineering_Internship_London__UK_Data_Science__AI_&_ML",
@@ -2797,7 +2797,7 @@
       "role": "Data Engineering Internship",
       "location": "London, UK",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476791"
+      "timestamp": "2025-08-11T20:34:53.510000"
     },
     {
       "id": "Castleton_Commodities_International_Data_Engineering_Internship_Houston__TXStamford__CT_Data_Science__AI_&_ML",
@@ -2805,7 +2805,7 @@
       "role": "Data Engineering Internship",
       "location": "Houston, TXStamford, CT",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476808"
+      "timestamp": "2025-08-11T20:34:53.510016"
     },
     {
       "id": "NexThreat_Data_Analysis_Intern_Reston__VA_Data_Science__AI_&_ML",
@@ -2813,7 +2813,7 @@
       "role": "Data Analysis Intern",
       "location": "Reston, VA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476827"
+      "timestamp": "2025-08-11T20:34:53.510034"
     },
     {
       "id": "Chainlink_Labs_Research_Internship_Remote_in_the_USA_Data_Science__AI_&_ML",
@@ -2821,7 +2821,7 @@
       "role": "Research Internship",
       "location": "Remote in the USA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476846"
+      "timestamp": "2025-08-11T20:34:53.510052"
     },
     {
       "id": "a37_Fullstack_MLE_Intern_San_Francisco__CA_Data_Science__AI_&_ML",
@@ -2829,7 +2829,7 @@
       "role": "Fullstack/MLE Intern",
       "location": "San Francisco, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476862"
+      "timestamp": "2025-08-11T20:34:53.510068"
     },
     {
       "id": "Kearney&Co_Data_Analytics_Internship_\ud83c\uddfa\ud83c\uddf8_Alexandria__VA_Data_Science__AI_&_ML",
@@ -2837,7 +2837,7 @@
       "role": "Data Analytics Internship \ud83c\uddfa\ud83c\uddf8",
       "location": "Alexandria, VA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476880"
+      "timestamp": "2025-08-11T20:34:53.510085"
     },
     {
       "id": "BILL_Machine_Learning_Engineer_Intern_\ud83d\udec2_Draper__UTSan_Jose__CA_Data_Science__AI_&_ML",
@@ -2845,7 +2845,7 @@
       "role": "Machine Learning Engineer Intern \ud83d\udec2",
       "location": "Draper, UTSan Jose, CA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476900"
+      "timestamp": "2025-08-11T20:34:53.510105"
     },
     {
       "id": "Morgan_Stanley_2026_Technology_Summer_Analyst_Program_New_York__NY_Data_Science__AI_&_ML",
@@ -2853,7 +2853,7 @@
       "role": "2026 Technology Summer Analyst Program",
       "location": "New York, NY",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476919"
+      "timestamp": "2025-08-11T20:34:53.510123"
     },
     {
       "id": "D._E._Shaw_Fundamental_Research_Analyst_Intern_New_York__NY_Data_Science__AI_&_ML",
@@ -2861,7 +2861,7 @@
       "role": "Fundamental Research Analyst Intern",
       "location": "New York, NY",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476935"
+      "timestamp": "2025-08-11T20:34:53.510138"
     },
     {
       "id": "BNP_Paribas_Summer_Analyst_Intern_Jersey_City__NJ_Data_Science__AI_&_ML",
@@ -2869,7 +2869,7 @@
       "role": "Summer Analyst Intern",
       "location": "Jersey City, NJ",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476952"
+      "timestamp": "2025-08-11T20:34:53.510153"
     },
     {
       "id": "BNP_Paribas_Technology_Analyst_Intern_Jersey_CIty__NJ_Data_Science__AI_&_ML",
@@ -2877,7 +2877,7 @@
       "role": "Technology Analyst Intern",
       "location": "Jersey CIty, NJ",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476968"
+      "timestamp": "2025-08-11T20:34:53.510169"
     },
     {
       "id": "Bank_of_America_Software_Engineer_Summer_Analyst_Intern_Charlotte__NCChicago__ILDallas__TX_Data_Science__AI_&_ML",
@@ -2885,7 +2885,7 @@
       "role": "Software Engineer Summer Analyst Intern",
       "location": "Charlotte, NCChicago, ILDallas, TX",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.476988"
+      "timestamp": "2025-08-11T20:34:53.510190"
     },
     {
       "id": "Apple_Machine_Learning___AI_Intern_United_States_Data_Science__AI_&_ML",
@@ -2893,7 +2893,7 @@
       "role": "Machine Learning / AI Intern",
       "location": "United States",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477007"
+      "timestamp": "2025-08-11T20:34:53.510208"
     },
     {
       "id": "Tower_Research_Capital_ML_Intern_New_York__NY_Data_Science__AI_&_ML",
@@ -2901,7 +2901,7 @@
       "role": "ML Intern",
       "location": "New York, NY",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477026"
+      "timestamp": "2025-08-11T20:34:53.510225"
     },
     {
       "id": "Bank_of_America_Global_Operations_Development_Summer_Analyst_Program_\ud83d\udec2_4_locationsCharlotte__North_CarolinaDallas__TexasJacksonville__FloridaPhoenix__Arizona_Data_Science__AI_&_ML",
@@ -2909,7 +2909,7 @@
       "role": "Global Operations Development Summer Analyst Program \ud83d\udec2",
       "location": "4 locationsCharlotte, North CarolinaDallas, TexasJacksonville, FloridaPhoenix, Arizona",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477051"
+      "timestamp": "2025-08-11T20:34:53.510250"
     },
     {
       "id": "Polaris_Digital_&_Information_Technology_\u2013_Predictive_Data_Science_Internship_Wayzata__MNSouth_Yankton__NE_Data_Science__AI_&_ML",
@@ -2917,7 +2917,7 @@
       "role": "Digital & Information Technology \u2013 Predictive Data Science Internship",
       "location": "Wayzata, MNSouth Yankton, NE",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477074"
+      "timestamp": "2025-08-11T20:34:53.510272"
     },
     {
       "id": "AbbVie_Business_Technology_Solutions_Intern_Waukegan__IL_Data_Science__AI_&_ML",
@@ -2925,7 +2925,7 @@
       "role": "Business Technology Solutions Intern",
       "location": "Waukegan, IL",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477092"
+      "timestamp": "2025-08-11T20:34:53.510290"
     },
     {
       "id": "UNFPA_Geospatial_Sciences_Internship_\ud83d\udec2_Remote_in_USA_Data_Science__AI_&_ML",
@@ -2933,7 +2933,7 @@
       "role": "Geospatial Sciences Internship \ud83d\udec2",
       "location": "Remote in USA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477112"
+      "timestamp": "2025-08-11T20:34:53.510308"
     },
     {
       "id": "Wells_Fargo_2026_Analytics_and_Data_Summer_Internship_-_Early_Careers_4_locationsDes_Moines__IADallas__TXCharlotte__NCMinneapolis__MN_Data_Science__AI_&_ML",
@@ -2941,7 +2941,7 @@
       "role": "2026 Analytics and Data Summer Internship - Early Careers",
       "location": "4 locationsDes Moines, IADallas, TXCharlotte, NCMinneapolis, MN",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477134"
+      "timestamp": "2025-08-11T20:34:53.510330"
     },
     {
       "id": "Walleye_Capital_Investment_Data_Science_Intern_NYC_Data_Science__AI_&_ML",
@@ -2949,7 +2949,7 @@
       "role": "Investment Data Science Intern",
       "location": "NYC",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477152"
+      "timestamp": "2025-08-11T20:34:53.510348"
     },
     {
       "id": "Capital_One_Data_Analyst_Intern_McLean__VARichmond__VA_Data_Science__AI_&_ML",
@@ -2957,7 +2957,7 @@
       "role": "Data Analyst Intern",
       "location": "McLean, VARichmond, VA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477170"
+      "timestamp": "2025-08-11T20:34:53.510366"
     },
     {
       "id": "Caterpillar_Inc._2026_Summer_Corporate_Intern_-_Digital_and_Analytics_Peoria__ILChicago__ILIrving__TX_Data_Science__AI_&_ML",
@@ -2965,7 +2965,7 @@
       "role": "2026 Summer Corporate Intern - Digital and Analytics",
       "location": "Peoria, ILChicago, ILIrving, TX",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477189"
+      "timestamp": "2025-08-11T20:34:53.510385"
     },
     {
       "id": "Lamb_Weston_Lamb_Weston_Summer_Internship_Program_Kennewick__WA_Data_Science__AI_&_ML",
@@ -2973,7 +2973,7 @@
       "role": "Lamb Weston Summer Internship Program",
       "location": "Kennewick, WA",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477207"
+      "timestamp": "2025-08-11T20:34:53.510402"
     },
     {
       "id": "Walleye_Capital_Technology_Intern_New_York__NY_Data_Science__AI_&_ML",
@@ -2981,7 +2981,7 @@
       "role": "Technology Intern",
       "location": "New York, NY",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477225"
+      "timestamp": "2025-08-11T20:34:53.510419"
     },
     {
       "id": "Comcast_ERP_Internship:_Rising_Senior_Technology_Orlando__FLPhiladelphia__PANew_York__NY_Data_Science__AI_&_ML",
@@ -2989,7 +2989,7 @@
       "role": "ERP Internship: Rising Senior Technology",
       "location": "Orlando, FLPhiladelphia, PANew York, NY",
       "category": "Data Science, AI & ML",
-      "timestamp": "2025-08-11T20:01:38.477245"
+      "timestamp": "2025-08-11T20:34:53.510438"
     }
   ]
 }
